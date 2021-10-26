@@ -1,0 +1,701 @@
+Project Name,Transacted Price ($),Area (SQFT),Unit Price ($ PSF),Sale Date,Address,Type of Sale,Type of Area,Area (SQM),Unit Price ($ PSM),Nett Price($),Property Type,Number of Units,Tenure,Completion Date,Purchaser Address Indicator,Postal Code,Postal District,Postal Sector,Planning Region,Planning Area
+ESPARINA RESIDENCES,"1,090,000","1,001.05","1,089",01 Apr 2020,115 COMPASSVALE BOW #07-11,Resale,Strata,93,"11,720",-,Executive Condominium,1,99 yrs from 02/06/2010,2013,Private,544815,19,54,North East Region,Sengkang
+RIO VISTA,"922,000","1,237.86",745,01 Apr 2020,32 UPPER SERANGOON VIEW #02-43,Resale,Strata,115,"8,017",-,Condominium,1,99 yrs from 02/01/2001,2004,Private,534209,19,53,North East Region,Hougang
+BLOSSOM RESIDENCES,"990,000","1,087.16",911,01 Apr 2020,30 SEGAR ROAD #16-08,Resale,Strata,101,"9,802",-,Executive Condominium,1,99 yrs from 02/03/2011,2014,HDB,677721,23,67,West Region,Bukit Panjang
+STRATTON GREEN,"2,688,888","1,969.81","1,365",01 Apr 2020,64 STRATTON DRIVE,Resale,Land,183,"14,693",-,Terrace House,1,Freehold,2003,HDB,805662,28,80,North East Region,Serangoon
+CITYVISTA RESIDENCES,"4,713,800","2,626.42","1,795",01 Apr 2020,21 PECK HAY ROAD #18-02,Resale,Strata,244,"19,319",-,Condominium,1,Freehold,2010,HDB,228314,09,22,Central Region,Newton
+MANDARIN GARDENS,"818,000",828.83,987,01 Apr 2020,5 SIGLAP ROAD #04-41,Resale,Strata,77,"10,623",-,Condominium,1,99 yrs from 08/03/1982,1986,Private,448908,15,44,East Region,Bedok
+N.A.,"3,238,888","1,293.83","2,503",01 Apr 2020,20 MANGIS ROAD,Resale,Land,120.2,"26,946",-,Terrace House,1,Freehold,-,Private,424958,15,42,Central Region,Geylang
+EUPHONY GARDENS,"735,000","1,151.75",638,01 Apr 2020,11 JALAN MATA AYER #03-64,Resale,Strata,107,"6,869",-,Condominium,1,99 yrs from 25/02/1998,2001,HDB,759154,27,75,North Region,Mandai
+MARINA ONE RESIDENCES,"2,719,530","1,162.51","2,339",01 Apr 2020,23 MARINA WAY #22-34,Resale,Strata,108,"25,181",-,Apartment,1,99 yrs from 01/07/2011,2017,Private,018979,01,01,Central Region,Downtown Core
+HOLLAND GREEN,"4,200,000","4,686.65",896,01 Apr 2020,4 HOLLAND GREEN,Resale,Land,435.4,"9,646",-,Detached House,1,99 yrs from 13/02/1995,1998,Private,276127,10,27,Central Region,Bukit Timah
+THE AZURE,"2,300,000","1,894.46","1,214",01 Apr 2020,201 OCEAN DRIVE #01-06,Resale,Strata,176,"13,068",-,Condominium,1,99 yrs from 03/01/2005,2008,Private,098584,04,09,Central Region,Southern Islands
+NORTHOAKS,"1,058,000","2,271.2",466,01 Apr 2020,32 WOODLANDS CRESCENT #15-07,Resale,Strata,211,"5,014",-,Executive Condominium,1,99 yrs from 16/12/1997,2000,Private,738087,25,73,North Region,Woodlands
+TANGLIN VIEW,"1,180,000",871.88,"1,353",01 Apr 2020,156 PRINCE CHARLES CRESCENT #06-19,Resale,Strata,81,"14,568",-,Condominium,1,99 yrs from 17/05/1997,2001,HDB,159015,03,15,Central Region,Bukit Merah
+MARGARET VILLE,"2,040,654","1,184.04","1,723",01 Apr 2020,20 MARGARET DRIVE #10-08,New Sale,Strata,110,"18,551",-,Apartment,1,99 yrs from 13/03/2017,Uncompleted,N.A,149312,03,14,Central Region,Queenstown
+PRIVE,"1,065,000","1,097.93",970,01 Apr 2020,33 PUNGGOL FIELD #08-17,Resale,Strata,102,"10,441",-,Executive Condominium,1,99 yrs from 14/09/2010,2013,HDB,828817,19,82,North East Region,Punggol
+ICON,"1,750,000","1,044.11","1,676",01 Apr 2020,10 GOPENG STREET #34-11,Resale,Strata,97,"18,041",-,Apartment,1,99 yrs from 29/01/2002,2007,HDB,078878,02,07,Central Region,Downtown Core
+THE AMERY,"2,000,000","1,528.49","1,308",01 Apr 2020,16 LORONG K TELOK KURAU #02-01,Resale,Strata,142,"14,085",-,Condominium,1,Freehold,2010,Private,425612,15,42,East Region,Bedok
+THE ACACIAS,"1,500,000","1,377.79","1,089",01 Apr 2020,23 SOMMERVILLE ROAD #01-06,Resale,Strata,128,"11,719",-,Apartment,1,Freehold,2009,Private,358247,13,35,North East Region,Serangoon
+TRE RESIDENCES,"1,200,000",699.66,"1,715",01 Apr 2020,9 GEYLANG EAST AVENUE 1 #09-16,Resale,Strata,65,"18,462",-,Condominium,1,99 yrs from 23/04/2014,2018,Private,389783,14,38,Central Region,Geylang
+PIERMONT GRAND,"942,030",839.59,"1,122",01 Apr 2020,34 SUMANG WALK #09-25,New Sale,Strata,78,"12,077",-,Executive Condominium,1,99 yrs from 04/06/2018,Uncompleted,HDB,828622,19,82,North East Region,Punggol
+SPOTTISWOODE 18,"790,000",387.5,"2,039",01 Apr 2020,18 SPOTTISWOODE PARK ROAD #10-06,Resale,Strata,36,"21,944",-,Apartment,1,Freehold,2014,HDB,088642,02,08,Central Region,Bukit Merah
+SYMPHONY SUITES,"1,055,000",914.94,"1,153",01 Apr 2020,13 YISHUN CLOSE #06-25,Resale,Strata,85,"12,412",-,Condominium,1,99 yrs from 10/06/2014,2018,HDB,768010,27,76,North Region,Yishun
+CASA FORTUNA,"830,000",710.42,"1,168",01 Apr 2020,38 AH HOOD ROAD #03-08,Resale,Strata,66,"12,576",-,Apartment,1,Freehold,2011,Private,329981,12,32,Central Region,Novena
+LUXUS HILLS,"3,328,000","1,614.6","2,061",01 Apr 2020,11 LUXUS HILL VIEW,Resale,Land,150,"22,187",-,Terrace House,1,999 yrs from 01/01/1879,2020,Private,804509,28,80,North East Region,Serangoon
+ESPARINA RESIDENCES,"950,000",828.83,"1,146",01 Apr 2020,111 COMPASSVALE BOW #07-02,Resale,Strata,77,"12,338",-,Executive Condominium,1,99 yrs from 02/06/2010,2013,Private,544998,19,54,North East Region,Sengkang
+AUSTVILLE RESIDENCES,"855,000","1,033.34",827,01 Apr 2020,11 SENGKANG EAST AVENUE #05-01,Resale,Strata,96,"8,906",-,Executive Condominium,1,99 yrs from 24/08/2010,2014,Private,544804,19,54,North East Region,Sengkang
+THE RIVERVALE,"848,000","1,248.62",679,01 Apr 2020,7 RIVERVALE LINK #14-41,Resale,Strata,116,"7,310",-,Executive Condominium,1,99 yrs from 18/12/1997,2000,HDB,545125,19,54,North East Region,Sengkang
+THE GARDEN RESIDENCES,"1,081,500",688.9,"1,570",01 Apr 2020,9 SERANGOON NORTH VIEW #05-44,New Sale,Strata,64,"16,898",-,Apartment,1,99 yrs from 30/10/2017,Uncompleted,HDB,554347,19,55,North East Region,Serangoon
+COSTA DEL SOL,"1,450,000","1,237.86","1,171",01 Apr 2020,82 BAYSHORE ROAD #10-31,Resale,Strata,115,"12,609",-,Condominium,1,99 yrs from 05/05/1997,2003,Private,469993,16,46,East Region,Bedok
+OLA,"1,510,000","1,388.56","1,087",01 Apr 2020,78 ANCHORVALE CRESCENT #14-18,New Sale,Strata,129,"11,705",-,Executive Condominium,1,99 yrs from 14/12/2018,Uncompleted,HDB,544603,19,54,North East Region,Sengkang
+NIM COLLECTION,"2,869,000","1,614.6","1,777",01 Apr 2020,35 NIM TERRACE,New Sale,Land,150,"19,127",-,Terrace House,1,99 yrs from 13/10/2016,2019,N.A,804377,28,80,North East Region,Serangoon
+WATERCOLOURS,"778,000",914.94,850,01 Apr 2020,31 PASIR RIS LINK #04-25,Resale,Strata,85,"9,153",-,Executive Condominium,1,99 yrs from 10/01/2012,2014,HDB,518153,18,51,East Region,Pasir Ris
+NEPTUNE COURT,"1,280,000","1,636.13",782,01 Apr 2020,5 MARINE VISTA #03-49,Resale,Strata,152,"8,421",-,Apartment,1,99 yrs from 01/11/1975,1975,Private,449029,15,44,East Region,Bedok
+LUXUS HILLS,"3,358,000","1,614.6","2,080",01 Apr 2020,22 LUXUS HILL VIEW,Resale,Land,150,"22,387",-,Terrace House,1,999 yrs from 01/01/1879,2020,Private,804500,28,80,North East Region,Serangoon
+SPRINGDALE CONDOMINIUM,"1,230,000","1,108.69","1,109",02 Apr 2020,51 HINDHEDE WALK #03-11,Resale,Strata,103,"11,942",-,Condominium,1,999 yrs from 21/06/1877,1998,Private,587975,21,58,West Region,Bukit Panjang
+RIVERFRONT RESIDENCES,"1,264,000",914.94,"1,382",02 Apr 2020,53 HOUGANG AVENUE 7 #12-67,New Sale,Strata,85,"14,871",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,Private,533819,19,53,North East Region,Hougang
+RIVERFRONT RESIDENCES,"745,000",516.67,"1,442",02 Apr 2020,47 HOUGANG AVENUE 7 #16-34,New Sale,Strata,48,"15,521",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,HDB,533816,19,53,North East Region,Hougang
+EIGHT COURTYARDS,"845,000",871.88,969,02 Apr 2020,12 CANBERRA DRIVE #05-23,Resale,Strata,81,"10,432",-,Condominium,1,99 yrs from 20/09/2010,2014,HDB,768094,27,76,North Region,Yishun
+STUDIO 3,"1,475,000",882.65,"1,671",02 Apr 2020,28 SHANGHAI ROAD #12-01,Resale,Strata,82,"17,988",-,Apartment,1,Freehold,2005,HDB,248196,10,24,Central Region,Tanglin
+CARIBBEAN AT KEPPEL BAY,"2,980,000","1,894.46","1,573",02 Apr 2020,36 KEPPEL BAY DRIVE #02-78,Resale,Strata,176,"16,932",-,Condominium,1,99 yrs from 16/08/1999,2004,Private,098653,04,09,Central Region,Bukit Merah
+N.A.,"1,850,000","1,779.29","1,040",02 Apr 2020,56B WAK HASSAN DRIVE,Resale,Land,165.3,"11,192",-,Terrace House,1,99 yrs from 25/01/2011,2012,Private,757142,27,75,North Region,Sembawang
+RIVERFRONT RESIDENCES,"740,000",516.67,"1,432",02 Apr 2020,41 HOUGANG AVENUE 7 #12-12,New Sale,Strata,48,"15,417",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,HDB,533813,19,53,North East Region,Hougang
+WEST BAY CONDOMINIUM,"770,000",850.36,906,02 Apr 2020,56 WEST COAST CRESCENT #04-08,Resale,Strata,79,"9,747",-,Condominium,1,99 yrs from 01/03/1991,1993,Private,128038,05,12,West Region,Clementi
+THE INFINITI,"1,428,000","1,345.5","1,061",02 Apr 2020,39E WEST COAST PARK #12-16,Resale,Strata,125,"11,424",-,Condominium,1,Freehold,2008,HDB,127716,05,12,West Region,Clementi
+THE PALETTE,"1,030,000","1,054.87",976,02 Apr 2020,111 PASIR RIS GROVE #03-32,Resale,Strata,98,"10,510",-,Condominium,1,99 yrs from 20/10/2010,2015,Private,518170,18,51,East Region,Pasir Ris
+SPRING GROVE,"1,550,000","1,011.82","1,532",02 Apr 2020,53 GRANGE ROAD #08-06,Resale,Strata,94,"16,489",-,Condominium,1,99 yrs from 01/12/1991,1996,HDB,249565,10,24,Central Region,Tanglin
+CAVENDISH PARK,"1,635,000","1,410.08","1,160",02 Apr 2020,20 PINE GROVE #06-01,Resale,Strata,131,"12,481",-,Condominium,1,99 yrs from 18/11/1991,1996,Private,597595,21,59,Central Region,Bukit Timah
+15 HOLLAND HILL,"13,871,000","5,134.43","2,702",02 Apr 2020,15 HOLLAND HILL #12-05,New Sale,Strata,477,"29,080",-,Apartment,1,Freehold,Uncompleted,Private,278735,10,27,Central Region,Bukit Timah
+ARDMORE PARK,"8,000,000","2,884.75","2,773",02 Apr 2020,11 ARDMORE PARK #10-04,Resale,Strata,268,"29,851",-,Condominium,1,Freehold,2001,Private,259957,10,25,Central Region,Newton
+SELETAR HILLS ESTATE,"3,450,000","3,667.29",941,02 Apr 2020,7 JALAN KELULUT,Resale,Land,340.7,"10,126",-,Semi-Detached House,1,Freehold,1997,Private,809026,28,80,North East Region,Serangoon
+8@WOODLEIGH,"2,180,000","1,657.66","1,315",02 Apr 2020,8 WOODLEIGH CLOSE #15-22,Resale,Strata,154,"14,156",-,Condominium,1,99 yrs from 22/09/2008,2012,Private,357903,13,35,Central Region,Toa Payoh
+SIMS URBAN OASIS,"630,000",409.03,"1,540",02 Apr 2020,10 SIMS DRIVE #09-38,Resale,Strata,38,"16,579",-,Condominium,1,99 yrs from 29/07/2014,2017,Private,387390,14,38,Central Region,Geylang
+KEW COTTAGES,"2,580,000","2,542.46","1,015",02 Apr 2020,9 LIMAU WALK,Resale,Land,236.2,"10,923",-,Terrace House,1,Freehold,1985,Private,467771,16,46,East Region,Bedok
+KOVAN MELODY,"1,410,000","1,291.68","1,092",02 Apr 2020,19 KOVAN ROAD #05-09,Resale,Strata,120,"11,750",-,Condominium,1,99 yrs from 20/01/2004,2006,Private,548191,19,54,North East Region,Hougang
+PALM GARDENS,"855,000","1,205.57",709,02 Apr 2020,2E HONG SAN WALK #17-04,Resale,Strata,112,"7,634",-,Condominium,1,99 yrs from 12/08/1996,2000,HDB,689051,23,68,West Region,Choa Chu Kang
+REFLECTIONS AT KEPPEL BAY,"1,460,000",893.41,"1,634",02 Apr 2020,33 KEPPEL BAY VIEW #28-94,Resale,Strata,83,"17,590",-,Condominium,1,99 yrs from 15/03/2006,2011,Private,098419,04,09,Central Region,Bukit Merah
+TREASURE AT TAMPINES,"1,784,000","1,334.74","1,337",02 Apr 2020,23 TAMPINES LANE #05-80,New Sale,Strata,124,"14,387",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,Private,528474,18,52,East Region,Tampines
+PARC CLEMATIS,"1,748,000","1,076.4","1,624",02 Apr 2020,8F JALAN LEMPENG #15-62,New Sale,Strata,100,"17,480",-,Apartment,1,99 yrs from 08/08/2019,Uncompleted,N.A,126740,05,12,West Region,Clementi
+THE TAMPINES TRILLIANT,"1,080,000","1,001.05","1,079",02 Apr 2020,31 TAMPINES CENTRAL 7 #06-44,Resale,Strata,93,"11,613",-,Executive Condominium,1,99 yrs from 13/07/2011,2015,Private,528613,18,52,East Region,Tampines
+PARC ESTA,"1,604,000",958,"1,674",02 Apr 2020,900 SIMS AVENUE #12-08,New Sale,Strata,89,"18,022",-,Apartment,1,99 yrs from 12/07/2018,Uncompleted,Private,408966,14,40,Central Region,Geylang
+CASPIAN,"1,350,000","1,194.8","1,130",02 Apr 2020,52 LAKESIDE DRIVE #14-11,Resale,Strata,111,"12,162",-,Condominium,1,99 yrs from 17/03/2008,2012,HDB,648316,22,64,West Region,Jurong West
+CASA MEYA,"1,090,000",807.3,"1,350",02 Apr 2020,25 MEYAPPA CHETTIAR ROAD #07-01,Resale,Strata,75,"14,533",-,Apartment,1,Freehold,2009,Private,358464,13,35,Central Region,Toa Payoh
+ASCENTIA SKY,"3,190,000","1,991.34","1,602",03 Apr 2020,1 ALEXANDRA VIEW #42-01,Resale,Strata,185,"17,243",-,Condominium,1,99 yrs from 26/03/2008,2013,Private,158748,03,15,Central Region,Bukit Merah
+THE PALETTE,"1,225,000","1,162.51","1,054",03 Apr 2020,105 PASIR RIS GROVE #09-14,Resale,Strata,108,"11,343",-,Condominium,1,99 yrs from 20/10/2010,2015,Private,518197,18,51,East Region,Pasir Ris
+MAYFAIR MODERN,"998,000",516.67,"1,932",03 Apr 2020,2 RIFLE RANGE ROAD #01-08,New Sale,Strata,48,"20,792",-,Condominium,1,99 yrs from 18/09/2018,Uncompleted,N.A,588373,21,58,Central Region,Bukit Timah
+LILYDALE,"1,230,000","2,152.8",571,03 Apr 2020,552 YISHUN AVENUE 6 #13-07,Resale,Strata,200,"6,150",-,Executive Condominium,1,99 yrs from 12/09/2000,2003,HDB,768962,27,76,North Region,Yishun
+TREASURE AT TAMPINES,"828,000",592.02,"1,399",03 Apr 2020,3 TAMPINES LANE #08-13,New Sale,Strata,55,"15,055",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,HDB,528483,18,52,East Region,Tampines
+LUXUS HILLS,"4,398,000","2,418.67","1,818",03 Apr 2020,2 LUXUS HILL VIEW,Resale,Land,224.7,"19,573",-,Terrace House,1,999 yrs from 01/01/1879,2019,Private,804490,28,80,North East Region,Serangoon
+JADESCAPE,"1,825,300","1,054.87","1,730",03 Apr 2020,6 SHUNFU ROAD #19-20,New Sale,Strata,98,"18,626",-,Condominium,1,99 yrs from 19/06/2018,Uncompleted,HDB,575744,20,57,Central Region,Bishan
+WOODSVALE,"755,000","1,237.86",610,03 Apr 2020,9 WOODLANDS DRIVE 72 #06-27,Resale,Strata,115,"6,565",-,Executive Condominium,1,99 yrs from 22/09/1997,2000,HDB,738093,25,73,North Region,Woodlands
+ONE OXLEY RISE,"1,500,000",721.19,"2,080",03 Apr 2020,1 OXLEY RISE #09-04,Resale,Strata,67,"22,388",-,Apartment,1,Freehold,2009,Private,238714,09,23,Central Region,Museum
+SIMS URBAN OASIS,"1,570,000","1,033.34","1,519",03 Apr 2020,18 SIMS DRIVE #12-60,Resale,Strata,96,"16,354",-,Condominium,1,99 yrs from 29/07/2014,2017,Private,387394,14,38,Central Region,Geylang
+FERRARIA PARK CONDOMINIUM,"810,000",936.47,865,03 Apr 2020,16 FLORA DRIVE #06-25,Resale,Strata,87,"9,310",-,Condominium,1,Freehold,2009,Private,506945,17,50,East Region,Pasir Ris
+THE SAIL @ MARINA BAY,"3,750,000","1,980.58","1,893",03 Apr 2020,2 MARINA BOULEVARD #28-06,Resale,Strata,184,"20,380",-,Apartment,1,99 yrs from 12/08/2002,2008,Private,018987,01,01,Central Region,Downtown Core
+368 THOMSON,"2,150,000","1,302.44","1,651",03 Apr 2020,368 THOMSON ROAD #33-03,Resale,Strata,121,"17,769",-,Condominium,1,Freehold,2014,N.A,298127,11,29,Central Region,Novena
+SOLEIL @ SINARAN,"2,025,000","1,097.93","1,844",03 Apr 2020,6 SINARAN DRIVE #28-09,Resale,Strata,102,"19,853",-,Condominium,1,99 yrs from 23/10/2006,2011,Private,307468,11,30,Central Region,Novena
+MOONSTONE RESIDENCES,"1,375,000","1,237.86","1,111",03 Apr 2020,25 MOONSTONE LANE #07-01,Resale,Strata,115,"11,957",-,Apartment,1,Freehold,2004,HDB,328465,12,32,Central Region,Kallang
+D'NEST,"1,510,000","1,410.08","1,071",03 Apr 2020,145 PASIR RIS GROVE #08-67,Resale,Strata,131,"11,527",-,Condominium,1,99 yrs from 20/10/2010,2017,Private,518137,18,51,East Region,Pasir Ris
+MONTVIEW,"2,950,000","1,743.77","1,692",03 Apr 2020,63 MOUNT SINAI DRIVE #18-02,Resale,Strata,162,"18,210",-,Condominium,1,Freehold,2008,Private,277116,10,27,Central Region,Bukit Timah
+ESTELLA GARDENS,"635,000",656.6,967,03 Apr 2020,25 FLORA ROAD #06-05,Resale,Strata,61,"10,410",-,Condominium,1,Freehold,1999,Private,509740,17,50,East Region,Pasir Ris
+JADESCAPE,"913,800",527.44,"1,733",03 Apr 2020,4 SHUNFU ROAD #14-14,New Sale,Strata,49,"18,649",-,Condominium,1,99 yrs from 19/06/2018,Uncompleted,Private,575743,20,57,Central Region,Bishan
+COMPASS HEIGHTS,"960,000","1,054.87",910,03 Apr 2020,11 SENGKANG SQUARE #13-23,Resale,Strata,98,"9,796",-,Apartment,1,99 yrs from 30/04/2000,2002,HDB,545076,19,54,North East Region,Sengkang
+PARC ESTA,"1,884,000","1,119.46","1,683",03 Apr 2020,910 SIMS AVENUE #11-50,New Sale,Strata,104,"18,115",-,Apartment,1,99 yrs from 12/07/2018,Uncompleted,Private,408971,14,40,Central Region,Geylang
+JADESCAPE,"934,900",527.44,"1,773",03 Apr 2020,2 SHUNFU ROAD #15-06,New Sale,Strata,49,"19,080",-,Condominium,1,99 yrs from 19/06/2018,Uncompleted,N.A,575742,20,57,Central Region,Bishan
+PEOPLE'S PARK COMPLEX,"888,800","1,119.46",794,03 Apr 2020,1 PARK ROAD #29-964,Resale,Strata,104,"8,546",-,Apartment,1,99 yrs from 25/03/1968,1972,Private,059108,01,05,Central Region,Outram
+D'NEST,"1,100,000",968.76,"1,135",03 Apr 2020,147 PASIR RIS GROVE #09-73,Resale,Strata,90,"12,222",-,Condominium,1,99 yrs from 20/10/2010,2017,HDB,518138,18,51,East Region,Pasir Ris
+ASTOR GREEN,"1,000,000","1,065.64",938,03 Apr 2020,7 PINE GROVE #15-01,Resale,Strata,99,"10,101",-,Condominium,1,99 yrs from 18/11/1991,1995,Private,597592,21,59,Central Region,Bukit Timah
+THE ESPARIS,"1,010,000","1,323.97",763,03 Apr 2020,9 PASIR RIS DRIVE 4 #05-16,Resale,Strata,123,"8,211",-,Executive Condominium,1,99 yrs from 21/01/2002,2005,Private,519462,18,51,East Region,Pasir Ris
+THE NEXUS,"1,700,000","1,054.87","1,612",03 Apr 2020,955 BUKIT TIMAH ROAD #03-12,Resale,Strata,98,"17,347",-,Condominium,1,Freehold,2006,Private,589652,21,58,Central Region,Bukit Timah
+SERENE VIEW MANSIONS,"968,000","1,130.22",856,03 Apr 2020,39B LORONG SELANGAT,Resale,Strata,105,"9,219",-,Condominium,1,Freehold,1984,HDB,358728,13,35,North East Region,Serangoon
+LUXUS HILLS,"3,308,000","1,614.6","2,049",03 Apr 2020,17 LUXUS HILL VIEW,Resale,Land,150,"22,053",-,Terrace House,1,999 yrs from 01/01/1879,2020,HDB,804512,28,80,North East Region,Serangoon
+PARRY GREEN,"1,660,000","1,703.94",974,03 Apr 2020,43 LIMBOK TERRACE,Resale,Land,158.3,"10,486",-,Terrace House,1,99 yrs from 28/02/1996,1998,Private,545195,19,54,North East Region,Hougang
+NEPTUNE COURT,"1,100,000","1,270.15",866,03 Apr 2020,8 MARINE VISTA #13-33,Resale,Strata,118,"9,322",-,Apartment,1,99 yrs from 01/09/1976,1975,Private,449032,15,44,East Region,Bedok
+N.A.,"3,500,000","3,290.55","1,064",03 Apr 2020,50 JALAN LENGKOK SEMBAWANG,Resale,Land,305.7,"11,449",-,Semi-Detached House,1,Freehold,1967,HDB,759231,27,75,North Region,Mandai
+N.A.,"4,630,000","4,214.11","1,099",03 Apr 2020,9 SURIN LANE,Resale,Land,391.5,"11,826",-,Semi-Detached House,1,Freehold,1986,HDB,535554,19,53,North East Region,Hougang
+RIVERSAILS,"1,600,000","1,614.6",991,03 Apr 2020,12 UPPER SERANGOON CRESCENT #02-31,Resale,Strata,150,"10,667",-,Condominium,1,99 yrs from 07/12/2011,2016,Private,534030,19,53,North East Region,Hougang
+UBER 388,"715,000",452.09,"1,582",03 Apr 2020,388 UPPER EAST COAST ROAD #02-18,Resale,Strata,42,"17,024",-,Condominium,1,Freehold,2014,Private,466477,16,46,East Region,Bedok
+D'NEST,"980,000",936.47,"1,046",03 Apr 2020,139 PASIR RIS GROVE #06-44,Resale,Strata,87,"11,264",-,Condominium,1,99 yrs from 20/10/2010,2017,HDB,518134,18,51,East Region,Pasir Ris
+DAINTREE RESIDENCE,"1,336,180",775.01,"1,724",03 Apr 2020,11A TOH TUCK ROAD #05-02,New Sale,Strata,72,"18,558",-,Condominium,1,99 yrs from 17/07/2017,Uncompleted,N.A,596157,21,59,Central Region,Bukit Timah
+DAINTREE RESIDENCE,"1,291,030",775.01,"1,666",03 Apr 2020,11C TOH TUCK ROAD #01-17,New Sale,Strata,72,"17,931",-,Condominium,1,99 yrs from 17/07/2017,Uncompleted,Private,596159,21,59,Central Region,Bukit Timah
+N.A.,"4,000,000","4,807.2",832,03 Apr 2020,16 SENNETT ROAD,Resale,Land,446.6,"8,957",-,Semi-Detached House,1,Freehold,-,Private,466794,16,46,East Region,Bedok
+ATTITUDE AT KIM YAM,"1,200,000",688.9,"1,742",03 Apr 2020,1 KIM YAM ROAD #10-02,Resale,Strata,64,"18,750",-,Apartment,1,999 yrs from 01/07/1841,2011,HDB,239319,09,23,Central Region,River Valley
+HIGH PARK RESIDENCES,"825,000",667.37,"1,236",03 Apr 2020,27 FERNVALE ROAD #10-25,Resale,Strata,62,"13,306",-,Apartment,1,99 yrs from 05/11/2014,2019,HDB,797415,28,79,North East Region,Sengkang
+THE TAPESTRY,"1,334,070","1,097.93","1,215",03 Apr 2020,57 TAMPINES STREET 86 #15-26,New Sale,Strata,102,"13,079",-,Condominium,1,99 yrs from 31/07/2017,Uncompleted,N.A,528542,18,52,East Region,Tampines
+SOUTH BEACH RESIDENCES,"3,758,880","1,216.33","3,090",03 Apr 2020,28 BEACH ROAD #35-02,Resale,Strata,113,"33,264",-,Apartment,1,99 yrs from 10/12/2007,2016,Private,189762,07,18,Central Region,Downtown Core
+TREASURE AT TAMPINES,"702,000",462.85,"1,517",03 Apr 2020,25 TAMPINES LANE #12-82,New Sale,Strata,43,"16,326",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,N.A,528473,18,52,East Region,Tampines
+ONE PEARL BANK,"1,180,000",430.56,"2,741",03 Apr 2020,1 PEARL BANK #37-13,New Sale,Strata,40,"29,500",-,Apartment,1,99 yrs from 01/03/2019,Uncompleted,N.A,169016,03,16,Central Region,Outram
+COSTA RHU,"1,128,000",990.29,"1,139",03 Apr 2020,3 RHU CROSS #02-05,Resale,Strata,92,"12,261",-,Condominium,1,99 yrs from 30/05/1994,1997,Private,437433,15,43,Central Region,Kallang
+HUME PARK I,"968,000",904.18,"1,071",03 Apr 2020,1 HUME AVENUE #02-05,Resale,Strata,84,"11,524",-,Condominium,1,Freehold,1995,Private,598718,21,59,West Region,Bukit Batok
+HIGH PARK RESIDENCES,"590,000",452.09,"1,305",03 Apr 2020,31 FERNVALE ROAD #08-44,Resale,Strata,42,"14,048",-,Apartment,1,99 yrs from 05/11/2014,2019,HDB,797417,28,79,North East Region,Sengkang
+THE RAINFOREST,"1,100,000","1,151.75",955,03 Apr 2020,339 CHOA CHU KANG AVENUE 3 #09-18,Resale,Strata,107,"10,280",-,Executive Condominium,1,99 yrs from 28/06/2011,2015,HDB,689873,23,68,West Region,Choa Chu Kang
+HIGH PARK RESIDENCES,"1,160,000","1,130.22","1,026",03 Apr 2020,31 FERNVALE ROAD #25-57,Resale,Strata,105,"11,048",-,Apartment,1,99 yrs from 05/11/2014,2019,HDB,797417,28,79,North East Region,Sengkang
+PARC ESTA,"1,276,000",742.72,"1,718",03 Apr 2020,902 SIMS AVENUE #13-11,New Sale,Strata,69,"18,493",-,Apartment,1,99 yrs from 12/07/2018,Uncompleted,N.A,408967,14,40,Central Region,Geylang
+THE M,"1,785,100",613.55,"2,909",03 Apr 2020,38 MIDDLE ROAD #18-46,New Sale,Strata,57,"31,318",-,Apartment,1,99 yrs from 03/07/2019,Uncompleted,Private,188947,07,18,Central Region,Downtown Core
+ARTRA,"1,691,100",785.77,"2,152",03 Apr 2020,10 ALEXANDRA VIEW #42-05,New Sale,Strata,73,"23,166",-,Apartment,1,99 yrs from 15/02/2016,Uncompleted,Private,158745,03,15,Central Region,Bukit Merah
+GILLENIA,"1,120,000","1,097.93","1,020",03 Apr 2020,35 ROSYTH ROAD #03-04,Resale,Strata,102,"10,980",-,Apartment,1,999 yrs from 01/01/1886,2009,HDB,546195,19,54,North East Region,Hougang
+PATERSON RESIDENCE,"3,550,000","1,657.66","2,142",03 Apr 2020,83 PATERSON ROAD #21-03,Resale,Strata,154,"23,052",-,Condominium,1,Freehold,2008,N.A,238549,09,23,Central Region,River Valley
+KOPAR AT NEWTON,"2,068,000",958,"2,159",04 Apr 2020,6 MAKEWAY AVENUE #05-06,New Sale,Strata,89,"23,236",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"2,098,000",958,"2,190",04 Apr 2020,6 MAKEWAY AVENUE #07-06,New Sale,Strata,89,"23,573",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,462,000",688.9,"2,122",04 Apr 2020,6 MAKEWAY AVENUE #04-08,New Sale,Strata,64,"22,844",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,540,000",688.9,"2,235",04 Apr 2020,6 MAKEWAY AVENUE #08-08,New Sale,Strata,64,"24,063",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,459,000",613.55,"2,378",04 Apr 2020,8 MAKEWAY AVENUE #09-09,New Sale,Strata,57,"25,596",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+STIRLING RESIDENCES,"940,000",505.91,"1,858",04 Apr 2020,23 STIRLING ROAD #03-13,New Sale,Strata,47,"20,000",-,Apartment,1,99 yrs from 18/08/2017,Uncompleted,HDB,148961,03,14,Central Region,Queenstown
+RIVERFRONT RESIDENCES,"1,190,000",871.88,"1,365",04 Apr 2020,51 HOUGANG AVENUE 7 #14-49,New Sale,Strata,81,"14,691",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,HDB,533818,19,53,North East Region,Hougang
+KOPAR AT NEWTON,"1,471,000",688.9,"2,135",04 Apr 2020,6 MAKEWAY AVENUE #05-03,New Sale,Strata,64,"22,984",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,483,000",688.9,"2,153",04 Apr 2020,6 MAKEWAY AVENUE #06-03,New Sale,Strata,64,"23,172",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,HDB,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,382,000",613.55,"2,252",04 Apr 2020,8 MAKEWAY AVENUE #05-09,New Sale,Strata,57,"24,246",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,HDB,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,098,000",516.67,"2,125",04 Apr 2020,6 MAKEWAY AVENUE #02-04,New Sale,Strata,48,"22,875",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,450,000",613.55,"2,363",04 Apr 2020,8 MAKEWAY AVENUE #02-12,New Sale,Strata,57,"25,439",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,168,000",516.67,"2,261",04 Apr 2020,6 MAKEWAY AVENUE #05-04,New Sale,Strata,48,"24,333",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"2,008,000",958,"2,096",04 Apr 2020,6 MAKEWAY AVENUE #02-06,New Sale,Strata,89,"22,562",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,HDB,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,178,000",516.67,"2,280",04 Apr 2020,6 MAKEWAY AVENUE #06-04,New Sale,Strata,48,"24,542",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+OLA,"1,126,000","1,054.87","1,067",04 Apr 2020,86 ANCHORVALE CRESCENT #03-35,New Sale,Strata,98,"11,490",-,Executive Condominium,1,99 yrs from 14/12/2018,Uncompleted,N.A,544561,19,54,North East Region,Sengkang
+KOPAR AT NEWTON,"1,370,000",613.55,"2,233",04 Apr 2020,8 MAKEWAY AVENUE #04-09,New Sale,Strata,57,"24,035",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"2,473,000","1,097.93","2,252",04 Apr 2020,8 MAKEWAY AVENUE #07-11,New Sale,Strata,102,"24,245",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,617,000",688.9,"2,347",04 Apr 2020,8 MAKEWAY AVENUE #06-13,New Sale,Strata,64,"25,266",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,486,000",688.9,"2,157",04 Apr 2020,6 MAKEWAY AVENUE #06-08,New Sale,Strata,64,"23,219",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,629,000",688.9,"2,365",04 Apr 2020,8 MAKEWAY AVENUE #07-13,New Sale,Strata,64,"25,453",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,229,000",516.67,"2,379",04 Apr 2020,8 MAKEWAY AVENUE #02-14,New Sale,Strata,48,"25,604",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,HDB,228607,09,22,Central Region,Novena
+JADESCAPE,"2,466,000","1,420.85","1,736",04 Apr 2020,4 SHUNFU ROAD #10-17,New Sale,Strata,132,"18,682",-,Condominium,1,99 yrs from 19/06/2018,Uncompleted,N.A,575743,20,57,Central Region,Bishan
+RIVERFRONT RESIDENCES,"689,000",581.26,"1,185",04 Apr 2020,47 HOUGANG AVENUE 7 #17-35,New Sale,Strata,54,"12,759",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,N.A,533816,19,53,North East Region,Hougang
+KOPAR AT NEWTON,"1,474,000",688.9,"2,140",04 Apr 2020,6 MAKEWAY AVENUE #05-08,New Sale,Strata,64,"23,031",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,HDB,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,251,000",516.67,"2,421",04 Apr 2020,8 MAKEWAY AVENUE #01-14,New Sale,Strata,48,"26,063",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,674,000",688.9,"2,430",04 Apr 2020,8 MAKEWAY AVENUE #08-13,New Sale,Strata,64,"26,156",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+PARC ESTA,"1,460,000",925.7,"1,577",04 Apr 2020,904 SIMS AVENUE #05-26,New Sale,Strata,86,"16,977",-,Apartment,1,99 yrs from 12/07/2018,Uncompleted,HDB,408968,14,40,Central Region,Geylang
+PARC CANBERRA,"1,375,000","1,184.04","1,161",04 Apr 2020,3 CANBERRA WALK #09-07,New Sale,Strata,110,"12,500",-,Executive Condominium,1,99 yrs from 10/12/2018,Uncompleted,HDB,757064,27,75,North Region,Sembawang
+TREASURE AT TAMPINES,"1,183,000",914.94,"1,293",04 Apr 2020,55 TAMPINES LANE #12-194,New Sale,Strata,85,"13,918",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,HDB,528458,18,52,East Region,Tampines
+KOPAR AT NEWTON,"2,338,000","1,054.87","2,216",04 Apr 2020,6 MAKEWAY AVENUE #08-07,New Sale,Strata,98,"23,857",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"2,225,000","1,054.87","2,109",04 Apr 2020,6 MAKEWAY AVENUE #02-07,New Sale,Strata,98,"22,704",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"2,083,000",958,"2,174",04 Apr 2020,6 MAKEWAY AVENUE #06-06,New Sale,Strata,89,"23,404",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,HDB,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,188,000",516.67,"2,299",04 Apr 2020,6 MAKEWAY AVENUE #07-04,New Sale,Strata,48,"24,750",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,474,000",613.55,"2,402",04 Apr 2020,8 MAKEWAY AVENUE #04-12,New Sale,Strata,57,"25,860",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"2,443,000","1,097.93","2,225",04 Apr 2020,8 MAKEWAY AVENUE #05-11,New Sale,Strata,102,"23,951",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,462,000",613.55,"2,383",04 Apr 2020,8 MAKEWAY AVENUE #03-12,New Sale,Strata,57,"25,649",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,486,000",613.55,"2,422",04 Apr 2020,8 MAKEWAY AVENUE #05-12,New Sale,Strata,57,"26,070",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+TREASURE AT TAMPINES,"955,000",678.13,"1,408",04 Apr 2020,3 TAMPINES LANE #04-09,New Sale,Strata,63,"15,159",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,N.A,528483,18,52,East Region,Tampines
+DAINTREE RESIDENCE,"1,880,790","1,119.46","1,680",04 Apr 2020,11M TOH TUCK ROAD #01-66,New Sale,Strata,104,"18,085",-,Condominium,1,99 yrs from 17/07/2017,Uncompleted,HDB,596134,21,59,Central Region,Bukit Timah
+STIRLING RESIDENCES,"1,960,000","1,054.87","1,858",04 Apr 2020,21 STIRLING ROAD #34-02,New Sale,Strata,98,"20,000",-,Apartment,1,99 yrs from 18/08/2017,Uncompleted,Private,148960,03,14,Central Region,Queenstown
+STIRLING RESIDENCES,"1,185,000",635.08,"1,866",04 Apr 2020,23 STIRLING ROAD #03-12,New Sale,Strata,59,"20,085",-,Apartment,1,99 yrs from 18/08/2017,Uncompleted,Private,148961,03,14,Central Region,Queenstown
+KOPAR AT NEWTON,"1,168,000",516.67,"2,261",04 Apr 2020,6 MAKEWAY AVENUE #05-05,New Sale,Strata,48,"24,333",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,128,000",516.67,"2,183",04 Apr 2020,6 MAKEWAY AVENUE #01-05,New Sale,Strata,48,"23,500",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+PARC ESTA,"1,252,000",742.72,"1,686",04 Apr 2020,902 SIMS AVENUE #13-10,New Sale,Strata,69,"18,145",-,Apartment,1,99 yrs from 12/07/2018,Uncompleted,N.A,408967,14,40,Central Region,Geylang
+KOPAR AT NEWTON,"1,524,000",688.9,"2,212",04 Apr 2020,8 MAKEWAY AVENUE #05-17,New Sale,Strata,64,"23,813",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,500,000",688.9,"2,177",04 Apr 2020,8 MAKEWAY AVENUE #03-17,New Sale,Strata,64,"23,438",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+TREASURE AT TAMPINES,"1,160,000",914.94,"1,268",04 Apr 2020,7 TAMPINES LANE #02-30,New Sale,Strata,85,"13,647",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,N.A,528487,18,52,East Region,Tampines
+KOPAR AT NEWTON,"1,435,000",688.9,"2,083",04 Apr 2020,6 MAKEWAY AVENUE #01-03,New Sale,Strata,64,"22,422",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+THE FLORENCE RESIDENCES,"1,232,000",914.94,"1,347",04 Apr 2020,81 HOUGANG AVENUE 2 #18-03,New Sale,Strata,85,"14,494",-,Apartment,1,99 yrs from 24/12/2018,Uncompleted,N.A,538859,19,53,North East Region,Hougang
+KOPAR AT NEWTON,"1,394,000",613.55,"2,272",04 Apr 2020,8 MAKEWAY AVENUE #06-09,New Sale,Strata,57,"24,456",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,593,000",688.9,"2,312",04 Apr 2020,8 MAKEWAY AVENUE #04-13,New Sale,Strata,64,"24,891",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,358,000",613.55,"2,213",04 Apr 2020,8 MAKEWAY AVENUE #03-09,New Sale,Strata,57,"23,825",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,549,000",688.9,"2,249",04 Apr 2020,6 MAKEWAY AVENUE #09-03,New Sale,Strata,64,"24,203",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,435,000",688.9,"2,083",04 Apr 2020,6 MAKEWAY AVENUE #02-03,New Sale,Strata,64,"22,422",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,585,000",688.9,"2,301",04 Apr 2020,6 MAKEWAY AVENUE #12-03,New Sale,Strata,64,"24,766",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+TREASURE AT TAMPINES,"865,000",592.02,"1,461",04 Apr 2020,41 TAMPINES LANE #10-137,New Sale,Strata,55,"15,727",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,N.A,528465,18,52,East Region,Tampines
+KOPAR AT NEWTON,"1,686,000",688.9,"2,447",04 Apr 2020,8 MAKEWAY AVENUE #09-13,New Sale,Strata,64,"26,344",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,HDB,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,605,000",688.9,"2,330",04 Apr 2020,8 MAKEWAY AVENUE #05-13,New Sale,Strata,64,"25,078",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,471,000",613.55,"2,398",04 Apr 2020,8 MAKEWAY AVENUE #10-09,New Sale,Strata,57,"25,807",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,488,000",688.9,"2,160",04 Apr 2020,8 MAKEWAY AVENUE #02-17,New Sale,Strata,64,"23,250",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,512,000",688.9,"2,195",04 Apr 2020,8 MAKEWAY AVENUE #04-17,New Sale,Strata,64,"23,625",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,500,000",688.9,"2,177",04 Apr 2020,8 MAKEWAY AVENUE #01-17,New Sale,Strata,64,"23,438",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,447,000",688.9,"2,100",04 Apr 2020,6 MAKEWAY AVENUE #03-03,New Sale,Strata,64,"22,609",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,450,150",688.9,"2,105",04 Apr 2020,6 MAKEWAY AVENUE #07-03,New Sale,Strata,64,"22,659",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,406,000",613.55,"2,292",04 Apr 2020,8 MAKEWAY AVENUE #07-09,New Sale,Strata,57,"24,667",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228607,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,232,000",516.67,"2,384",04 Apr 2020,6 MAKEWAY AVENUE #09-05,New Sale,Strata,48,"25,667",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,HDB,228606,09,22,Central Region,Novena
+THE M,"1,694,900",742.72,"2,282",04 Apr 2020,36 MIDDLE ROAD #06-35,New Sale,Strata,69,"24,564",-,Apartment,1,99 yrs from 03/07/2019,Uncompleted,Private,188945,07,18,Central Region,Downtown Core
+RIVERFRONT RESIDENCES,"679,000",581.26,"1,168",04 Apr 2020,51 HOUGANG AVENUE 7 #17-54,New Sale,Strata,54,"12,574",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,N.A,533818,19,53,North East Region,Hougang
+RIVERFRONT RESIDENCES,"695,000",581.26,"1,196",05 Apr 2020,49 HOUGANG AVENUE 7 #17-43,New Sale,Strata,54,"12,870",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,HDB,533817,19,53,North East Region,Hougang
+OLA,"1,185,000","1,054.87","1,123",05 Apr 2020,86 ANCHORVALE CRESCENT #13-35,New Sale,Strata,98,"12,092",-,Executive Condominium,1,99 yrs from 14/12/2018,Uncompleted,N.A,544561,19,54,North East Region,Sengkang
+OLA,"1,100,000",947.23,"1,161",05 Apr 2020,78 ANCHORVALE CRESCENT #16-19,New Sale,Strata,88,"12,500",-,Executive Condominium,1,99 yrs from 14/12/2018,Uncompleted,HDB,544603,19,54,North East Region,Sengkang
+JADESCAPE,"1,811,000","1,054.87","1,717",05 Apr 2020,6 SHUNFU ROAD #17-20,New Sale,Strata,98,"18,480",-,Condominium,1,99 yrs from 19/06/2018,Uncompleted,N.A,575744,20,57,Central Region,Bishan
+JADESCAPE,"1,278,100",764.24,"1,672",05 Apr 2020,6 SHUNFU ROAD #04-22,New Sale,Strata,71,"18,001",-,Condominium,1,99 yrs from 19/06/2018,Uncompleted,Private,575744,20,57,Central Region,Bishan
+AFFINITY AT SERANGOON,"1,123,000",731.95,"1,534",05 Apr 2020,20 SERANGOON NORTH AVENUE 1 #04-14,New Sale,Strata,68,"16,515",-,Apartment,1,99 yrs from 18/05/2018,Uncompleted,Private,554337,19,55,North East Region,Serangoon
+AFFINITY AT SERANGOON,"744,000",473.62,"1,571",05 Apr 2020,26 SERANGOON NORTH AVENUE 1 #04-44,New Sale,Strata,44,"16,909",-,Apartment,1,99 yrs from 18/05/2018,Uncompleted,HDB,554340,19,55,North East Region,Serangoon
+AFFINITY AT SERANGOON,"750,000",473.62,"1,584",05 Apr 2020,26 SERANGOON NORTH AVENUE 1 #06-44,New Sale,Strata,44,"17,045",-,Apartment,1,99 yrs from 18/05/2018,Uncompleted,Private,554340,19,55,North East Region,Serangoon
+KOPAR AT NEWTON,"1,128,000",516.67,"2,183",05 Apr 2020,6 MAKEWAY AVENUE #01-04,New Sale,Strata,48,"23,500",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+PARK COLONIAL,"1,914,000","1,011.82","1,892",05 Apr 2020,2 WOODLEIGH LANE #09-07,New Sale,Strata,94,"20,362",-,Condominium,1,99 yrs from 11/10/2017,Uncompleted,HDB,357685,13,35,Central Region,Toa Payoh
+TREASURE AT TAMPINES,"1,149,000",914.94,"1,256",05 Apr 2020,51 TAMPINES LANE #05-178,New Sale,Strata,85,"13,518",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,HDB,528460,18,52,East Region,Tampines
+TREASURE AT TAMPINES,"1,122,000",914.94,"1,226",05 Apr 2020,49 TAMPINES LANE #04-167,New Sale,Strata,85,"13,200",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,HDB,528461,18,52,East Region,Tampines
+PARC CANBERRA,"1,120,000","1,001.05","1,119",05 Apr 2020,15 CANBERRA WALK #02-32,New Sale,Strata,93,"12,043",-,Executive Condominium,1,99 yrs from 10/12/2018,Uncompleted,HDB,756948,27,75,North Region,Sembawang
+RIVERFRONT RESIDENCES,"978,000",721.19,"1,356",05 Apr 2020,47 HOUGANG AVENUE 7 #02-39,New Sale,Strata,67,"14,597",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,N.A,533816,19,53,North East Region,Hougang
+FOURTH AVENUE RESIDENCES,"1,118,000",484.38,"2,308",05 Apr 2020,12 FOURTH AVENUE #10-44,New Sale,Strata,45,"24,844",-,Apartment,1,99 yrs from 07/03/2018,Uncompleted,HDB,268676,10,26,Central Region,Bukit Timah
+OLA,"1,449,000","1,388.56","1,044",05 Apr 2020,78 ANCHORVALE CRESCENT #04-18,New Sale,Strata,129,"11,233",-,Executive Condominium,1,99 yrs from 14/12/2018,Uncompleted,Private,544603,19,54,North East Region,Sengkang
+TREASURE AT TAMPINES,"1,131,000",914.94,"1,236",05 Apr 2020,55 TAMPINES LANE #04-194,New Sale,Strata,85,"13,306",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,N.A,528458,18,52,East Region,Tampines
+SENGKANG GRAND RESIDENCES,"1,553,600",936.47,"1,659",05 Apr 2020,84 COMPASSVALE BOW #06-50,New Sale,Strata,87,"17,857",-,Apartment,1,99 yrs from 13/11/2018,Uncompleted,N.A,544572,19,54,North East Region,Sengkang
+JADESCAPE,"912,000",527.44,"1,729",05 Apr 2020,2 SHUNFU ROAD #11-06,New Sale,Strata,49,"18,612",-,Condominium,1,99 yrs from 19/06/2018,Uncompleted,HDB,575742,20,57,Central Region,Bishan
+KOPAR AT NEWTON,"1,188,000",516.67,"2,299",05 Apr 2020,6 MAKEWAY AVENUE #07-05,New Sale,Strata,48,"24,750",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"1,498,000",688.9,"2,174",05 Apr 2020,6 MAKEWAY AVENUE #07-08,New Sale,Strata,64,"23,406",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+AFFINITY AT SERANGOON,"852,000",538.2,"1,583",05 Apr 2020,30 SERANGOON NORTH AVENUE 1 #06-72,New Sale,Strata,50,"17,040",-,Apartment,1,99 yrs from 18/05/2018,Uncompleted,N.A,554342,19,55,North East Region,Serangoon
+PARC CANBERRA,"1,047,000",947.23,"1,105",05 Apr 2020,15 CANBERRA WALK #08-30,New Sale,Strata,88,"11,898",-,Executive Condominium,1,99 yrs from 10/12/2018,Uncompleted,HDB,756948,27,75,North Region,Sembawang
+THE M,"1,459,600",592.02,"2,465",05 Apr 2020,30 MIDDLE ROAD #12-03,New Sale,Strata,55,"26,538",-,Apartment,1,99 yrs from 03/07/2019,Uncompleted,Private,188940,07,18,Central Region,Downtown Core
+FOURTH AVENUE RESIDENCES,"998,000",484.38,"2,060",05 Apr 2020,6 FOURTH AVENUE #05-13,New Sale,Strata,45,"22,178",-,Apartment,1,99 yrs from 07/03/2018,Uncompleted,HDB,268673,10,26,Central Region,Bukit Timah
+PARC ESTA,"1,314,000",742.72,"1,769",05 Apr 2020,912 SIMS AVENUE #16-57,New Sale,Strata,69,"19,043",-,Apartment,1,99 yrs from 12/07/2018,Uncompleted,HDB,408972,14,40,Central Region,Geylang
+KOPAR AT NEWTON,"1,178,000",516.67,"2,280",05 Apr 2020,6 MAKEWAY AVENUE #06-05,New Sale,Strata,48,"24,542",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+THE TAPESTRY,"873,300",602.78,"1,449",05 Apr 2020,61 TAMPINES STREET 86 #09-47,New Sale,Strata,56,"15,595",-,Condominium,1,99 yrs from 31/07/2017,Uncompleted,Private,528510,18,52,East Region,Tampines
+TREASURE AT TAMPINES,"1,243,000",914.94,"1,359",05 Apr 2020,9 TAMPINES LANE #05-34,New Sale,Strata,85,"14,624",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,HDB,528481,18,52,East Region,Tampines
+AMBER PARK,"1,193,130",462.85,"2,578",05 Apr 2020,16 AMBER GARDENS #12-05,New Sale,Strata,43,"27,747",-,Condominium,1,Freehold,Uncompleted,N.A,439961,15,43,Central Region,Marine Parade
+TREASURE AT TAMPINES,"921,000",678.13,"1,358",05 Apr 2020,37 TAMPINES LANE #03-118,New Sale,Strata,63,"14,619",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,N.A,528467,18,52,East Region,Tampines
+TREASURE AT TAMPINES,"1,494,000","1,237.86","1,207",05 Apr 2020,37 TAMPINES LANE #02-123,New Sale,Strata,115,"12,991",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,HDB,528467,18,52,East Region,Tampines
+THE FLORENCE RESIDENCES,"1,109,000",721.19,"1,538",05 Apr 2020,81 HOUGANG AVENUE 2 #13-03,New Sale,Strata,67,"16,552",-,Apartment,1,99 yrs from 24/12/2018,Uncompleted,N.A,538859,19,53,North East Region,Hougang
+TREASURE AT TAMPINES,"702,000",462.85,"1,517",05 Apr 2020,49 TAMPINES LANE #12-165,New Sale,Strata,43,"16,326",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,Private,528461,18,52,East Region,Tampines
+TREASURE AT TAMPINES,"917,000",678.13,"1,352",05 Apr 2020,39 TAMPINES LANE #07-129,New Sale,Strata,63,"14,556",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,N.A,528466,18,52,East Region,Tampines
+MARTIN MODERN,"1,983,000",764.24,"2,595",05 Apr 2020,8 MARTIN PLACE #07-06,New Sale,Strata,71,"27,930",-,Condominium,1,99 yrs from 28/09/2016,Uncompleted,Private,237992,09,23,Central Region,River Valley
+DAINTREE RESIDENCE,"1,158,330",710.42,"1,630",05 Apr 2020,11H TOH TUCK ROAD #01-40,New Sale,Strata,66,"17,550",-,Condominium,1,99 yrs from 17/07/2017,Uncompleted,Private,596130,21,59,Central Region,Bukit Timah
+THE VERTE,"2,130,000","1,657.66","1,285",06 Apr 2020,118 LORONG H TELOK KURAU #04-07,Resale,Strata,154,"13,831",-,Apartment,1,Freehold,2012,Private,426146,15,42,East Region,Bedok
+PALM ISLES,"530,000",516.67,"1,026",06 Apr 2020,38 FLORA DRIVE #05-52,Resale,Strata,48,"11,042",-,Condominium,1,99 yrs from 14/09/2011,2015,Private,506895,17,50,East Region,Pasir Ris
+WATERFRONT KEY,"1,790,000","1,517.72","1,179",06 Apr 2020,770 BEDOK RESERVOIR ROAD #14-01,Resale,Strata,141,"12,695",-,Condominium,1,99 yrs from 31/10/2007,2012,HDB,479250,16,47,East Region,Bedok
+STRATFORD COURT,"910,000","1,044.11",872,06 Apr 2020,41A BEDOK RIA CRESCENT #01-52,Resale,Strata,97,"9,381",-,Condominium,1,99 yrs from 23/06/1995,1998,HDB,489929,16,48,East Region,Bedok
+THE TENNERY,"930,000",882.65,"1,054",06 Apr 2020,5A WOODLANDS ROAD #10-30,Resale,Strata,82,"11,341",-,Apartment,1,99 yrs from 24/05/2010,2014,HDB,677728,23,67,West Region,Choa Chu Kang
+AVON PARK,"2,500,000","1,700.71","1,470",06 Apr 2020,1 YOUNGBERG TERRACE #11-11,Resale,Strata,158,"15,823",-,Condominium,1,Freehold,1991,Private,357741,13,35,Central Region,Toa Payoh
+IVORY HEIGHTS,"1,520,000","1,700.71",894,06 Apr 2020,124 JURONG EAST STREET 13 #20-17,Resale,Strata,158,"9,620",-,Condominium,1,100 yrs from 01/02/1986,-,HDB,600124,22,60,West Region,Jurong East
+PARC ELEGANCE,"540,000",398.27,"1,356",06 Apr 2020,17 TELOK KURAU ROAD #01-30,Resale,Strata,37,"14,595",-,Apartment,1,Freehold,2013,HDB,423763,15,42,East Region,Bedok
+THE SAIL @ MARINA BAY,"2,550,000","1,431.61","1,781",06 Apr 2020,6 MARINA BOULEVARD #61-18,Resale,Strata,133,"19,173",-,Apartment,1,99 yrs from 12/08/2002,2008,Private,018985,01,01,Central Region,Downtown Core
+SUNRISE GARDENS,"940,000","1,302.44",722,06 Apr 2020,57 SUNRISE AVENUE #02-01,Resale,Strata,121,"7,769",-,Condominium,1,99 yrs from 24/06/1995,1998,HDB,806748,28,80,North East Region,Ang Mo Kio
+THE RAINFOREST,"1,000,000","1,205.57",829,06 Apr 2020,335 CHOA CHU KANG AVENUE 3 #01-12,Resale,Strata,112,"8,929",-,Executive Condominium,1,99 yrs from 28/06/2011,2015,HDB,689871,23,68,West Region,Choa Chu Kang
+THE ALPS RESIDENCES,"976,000",936.47,"1,042",06 Apr 2020,113 TAMPINES STREET 86 #02-38,New Sale,Strata,87,"11,218",-,Condominium,1,99 yrs from 03/08/2015,2019,HDB,528536,18,52,East Region,Tampines
+ARTRA,"2,041,700","1,044.11","1,955",06 Apr 2020,10 ALEXANDRA VIEW #34-10,New Sale,Strata,97,"21,048",-,Apartment,1,99 yrs from 15/02/2016,Uncompleted,HDB,158745,03,15,Central Region,Bukit Merah
+KENT RIDGE HILL RESIDENCES,"1,306,000",785.77,"1,662",06 Apr 2020,50 SOUTH BUONA VISTA ROAD #04-07,New Sale,Strata,73,"17,890",-,Apartment,1,99 yrs from 10/11/2018,Uncompleted,N.A,118167,05,11,Central Region,Queenstown
+CASA ROSA,"1,045,000","1,173.28",891,06 Apr 2020,35 LORONG ONG LYE #04-07,Resale,Strata,109,"9,587",-,Condominium,1,99 yrs from 02/02/1998,2001,Private,536443,19,53,North East Region,Serangoon
+N.A.,"4,600,000","3,471.39","1,325",06 Apr 2020,10 JALAN NIPAH,Resale,Land,322.5,"14,264",-,Semi-Detached House,1,Freehold,2018,HDB,488843,16,48,East Region,Bedok
+PARC BLEU,"628,000",527.44,"1,191",06 Apr 2020,262 JOO CHIAT PLACE #02-02,Resale,Strata,49,"12,816",-,Apartment,1,Freehold,2013,Private,427944,15,42,East Region,Bedok
+RIVERFRONT RESIDENCES,"1,327,000","1,108.69","1,197",06 Apr 2020,51 HOUGANG AVENUE 7 #04-60,New Sale,Strata,103,"12,883",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,Private,533818,19,53,North East Region,Hougang
+LUXUS HILLS,"3,428,000","1,614.6","2,123",06 Apr 2020,26 LUXUS HILL VIEW,Resale,Land,150,"22,853",-,Terrace House,1,999 yrs from 01/01/1879,2020,Private,804502,28,80,North East Region,Serangoon
+THE BEVERLY,"2,400,000","1,797.59","1,335",06 Apr 2020,47 TOH TUCK ROAD #02-22,Resale,Strata,167,"14,371",-,Apartment,1,Freehold,2012,Private,596722,21,59,Central Region,Bukit Timah
+SENNETT ESTATE,"1,940,000","1,500.5","1,293",06 Apr 2020,251 MACPHERSON ROAD,Resale,Land,139.4,"13,917",-,Terrace House,1,Freehold,1962,HDB,348581,13,34,Central Region,Toa Payoh
+PARC CLEMATIS,"1,773,000","1,076.4","1,647",06 Apr 2020,8F JALAN LEMPENG #22-62,New Sale,Strata,100,"17,730",-,Apartment,1,99 yrs from 08/08/2019,Uncompleted,N.A,126740,05,12,West Region,Clementi
+THE M,"1,718,600",635.08,"2,706",06 Apr 2020,30 MIDDLE ROAD #15-05,New Sale,Strata,59,"29,129",-,Apartment,1,99 yrs from 03/07/2019,Uncompleted,N.A,188940,07,18,Central Region,Downtown Core
+THE SPRINGSIDE,"3,380,000","2,653.33","1,274",06 Apr 2020,98 SPRINGSIDE AVENUE,Resale,Land,246.5,"13,712",-,Terrace House,1,Freehold,2006,Private,786493,26,78,North Region,Yishun
+CLEMENTI PARK,"1,690,000","1,657.66","1,020",06 Apr 2020,135 SUNSET WAY #01-05,Resale,Strata,154,"10,974",-,Condominium,1,Freehold,1985,HDB,597158,21,59,West Region,Clementi
+PARC HAVEN,"660,000",452.09,"1,460",06 Apr 2020,12 LORONG LIMAU #07-04,Resale,Strata,42,"15,714",-,Apartment,1,Freehold,2004,Private,328741,12,32,Central Region,Novena
+THE TROPICA,"1,110,000","1,237.86",897,06 Apr 2020,53 TAMPINES AVENUE 1 #10-03,Resale,Strata,115,"9,652",-,Condominium,1,99 yrs from 04/12/1996,2000,Private,529772,18,52,East Region,Tampines
+REFLECTIONS AT KEPPEL BAY,"2,000,000","1,151.75","1,736",06 Apr 2020,7 KEPPEL BAY VIEW #03-28,Resale,Strata,107,"18,692",-,Condominium,1,99 yrs from 15/03/2006,2011,Private,098405,04,09,Central Region,Bukit Merah
+THE VALES,"960,000","1,044.11",919,06 Apr 2020,85 ANCHORVALE CRESCENT #06-30,Resale,Strata,97,"9,897",-,Executive Condominium,1,99 yrs from 19/05/2014,2017,HDB,544627,19,54,North East Region,Sengkang
+ASPEN HEIGHTS,"1,520,000",882.65,"1,722",06 Apr 2020,261 RIVER VALLEY ROAD #05-02,Resale,Strata,82,"18,537",-,Condominium,1,999 yrs from 01/07/1841,1998,HDB,238307,09,23,Central Region,River Valley
+BELYSA,"980,000","1,108.69",884,06 Apr 2020,59 PASIR RIS DRIVE 1 #08-15,Resale,Strata,103,"9,515",-,Executive Condominium,1,99 yrs from 24/01/2011,2014,HDB,519532,18,51,East Region,Pasir Ris
+N.A.,"4,180,000","3,715.73","1,125",06 Apr 2020,16 SENNETT TERRACE,Resale,Land,345.2,"12,109",-,Semi-Detached House,1,Freehold,-,Private,466711,16,46,East Region,Bedok
+KOPAR AT NEWTON,"2,055,000",914.94,"2,246",06 Apr 2020,8 MAKEWAY AVENUE #07-16,New Sale,Strata,85,"24,176",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,HDB,228607,09,22,Central Region,Novena
+THE FLORENCE RESIDENCES,"750,000",484.38,"1,548",06 Apr 2020,83 HOUGANG AVENUE 2 #09-18,New Sale,Strata,45,"16,667",-,Apartment,1,99 yrs from 24/12/2018,Uncompleted,N.A,538860,19,53,North East Region,Hougang
+EIGHT RIVERSUITES,"1,050,000",699.66,"1,501",06 Apr 2020,6 WHAMPOA EAST #23-09,Resale,Strata,65,"16,154",-,Condominium,1,99 yrs from 11/07/2011,2016,Private,338519,12,33,Central Region,Kallang
+MIRAGE TOWER,"1,090,000",570.49,"1,911",06 Apr 2020,80 KIM SENG ROAD #09-04,Resale,Strata,53,"20,566",-,Condominium,1,Freehold,1996,HDB,239426,09,23,Central Region,Singapore River
+CASA AERATA,"563,000",430.56,"1,308",06 Apr 2020,9 LORONG 26 GEYLANG #04-01,Resale,Strata,40,"14,075",-,Apartment,1,Freehold,2012,HDB,398484,14,39,Central Region,Geylang
+PALM ISLES,"870,000",990.29,879,06 Apr 2020,34 FLORA DRIVE #04-27,Resale,Strata,92,"9,457",-,Condominium,1,99 yrs from 14/09/2011,2015,HDB,506893,17,50,East Region,Pasir Ris
+THE FLORIDA,"1,050,000","1,733",606,06 Apr 2020,76 HOUGANG AVENUE 7 #02-24,Resale,Strata,161,"6,522",-,Executive Condominium,1,99 yrs from 16/12/1997,2000,Private,538807,19,53,North East Region,Hougang
+THE LAKEFRONT RESIDENCES,"1,470,000","1,216.33","1,209",06 Apr 2020,42 LAKESIDE DRIVE #06-05,Resale,Strata,113,"13,009",-,Condominium,1,99 yrs from 03/08/2010,2014,Private,648322,22,64,West Region,Jurong West
+LUXUS HILLS,"3,398,000","1,614.6","2,105",06 Apr 2020,24 LUXUS HILL VIEW,Resale,Land,150,"22,653",-,Terrace House,1,999 yrs from 01/01/1879,2020,Private,804501,28,80,North East Region,Serangoon
+BUKIT REGENCY,"1,750,000","1,399.32","1,251",06 Apr 2020,7 UPPER BUKIT TIMAH VIEW #03-04,Resale,Strata,130,"13,462",-,Condominium,1,Freehold,1995,Private,588135,21,58,Central Region,Bukit Timah
+THE QUARTZ,"1,050,000","1,033.34","1,016",06 Apr 2020,69 COMPASSVALE BOW #18-36,Resale,Strata,96,"10,938",-,Condominium,1,99 yrs from 18/04/2005,2009,Private,544993,19,54,North East Region,Sengkang
+TREASURE AT TAMPINES,"861,000",581.26,"1,481",06 Apr 2020,41 TAMPINES LANE #09-136,New Sale,Strata,54,"15,944",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,Private,528465,18,52,East Region,Tampines
+ONE PEARL BANK,"1,802,000",699.66,"2,576",06 Apr 2020,1 PEARL BANK #21-05,New Sale,Strata,65,"27,723",-,Apartment,1,99 yrs from 01/03/2019,Uncompleted,Private,169016,03,16,Central Region,Outram
+STIRLING RESIDENCES,"1,193,000",635.08,"1,879",06 Apr 2020,23 STIRLING ROAD #05-12,New Sale,Strata,59,"20,220",-,Apartment,1,99 yrs from 18/08/2017,Uncompleted,N.A,148961,03,14,Central Region,Queenstown
+RIVERFRONT RESIDENCES,"691,000",581.26,"1,189",06 Apr 2020,41 HOUGANG AVENUE 7 #17-11,New Sale,Strata,54,"12,796",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,HDB,533813,19,53,North East Region,Hougang
+LEONIE PARC VIEW,"4,170,000","2,012.87","2,072",06 Apr 2020,22 LEONIE HILL ROAD #12-01,Resale,Strata,187,"22,299",-,Apartment,1,Freehold,2009,Private,239195,09,23,Central Region,River Valley
+PARC VERA,"840,000",871.88,963,06 Apr 2020,10 HOUGANG STREET 32 #04-21,Resale,Strata,81,"10,370",-,Condominium,1,99 yrs from 20/12/2010,2014,HDB,534037,19,53,North East Region,Hougang
+DAINTREE RESIDENCE,"1,316,830",775.01,"1,699",06 Apr 2020,11H TOH TUCK ROAD #03-45,New Sale,Strata,72,"18,289",-,Condominium,1,99 yrs from 17/07/2017,Uncompleted,N.A,596130,21,59,Central Region,Bukit Timah
+LA CASA,"940,000","1,280.92",734,06 Apr 2020,50 WOODLANDS DRIVE 16 #10-03,Resale,Strata,119,"7,899",-,Executive Condominium,1,99 yrs from 13/09/2004,2008,Private,737901,25,73,North Region,Woodlands
+FRANKEL ESTATE,"2,650,000","1,596.3","1,660",06 Apr 2020,26 FRANKEL TERRACE,Resale,Land,148.3,"17,869",-,Terrace House,1,Freehold,1957,Private,458025,15,45,East Region,Bedok
+THE TREVOSE,"1,800,000","1,334.74","1,349",06 Apr 2020,60 TREVOSE CRESCENT #04-32,Resale,Strata,124,"14,516",-,Condominium,1,99 yrs from 14/12/1996,2001,N.A,298090,11,29,Central Region,Novena
+THE M,"1,146,500",462.85,"2,477",06 Apr 2020,32 MIDDLE ROAD #05-14,New Sale,Strata,43,"26,663",-,Apartment,1,99 yrs from 03/07/2019,Uncompleted,Private,188941,07,18,Central Region,Downtown Core
+THE M,"1,288,700",527.44,"2,443",06 Apr 2020,38 MIDDLE ROAD #08-40,New Sale,Strata,49,"26,300",-,Apartment,1,99 yrs from 03/07/2019,Uncompleted,HDB,188947,07,18,Central Region,Downtown Core
+BISHAN LOFT,"1,700,000","1,463.9","1,161",06 Apr 2020,31 BISHAN STREET 11 #17-04,Resale,Strata,136,"12,500",-,Executive Condominium,1,99 yrs from 13/12/2000,2003,HDB,579819,20,57,Central Region,Bishan
+JEWEL @ BUANGKOK,"935,000",731.95,"1,277",06 Apr 2020,89 COMPASSVALE BOW #08-30,Resale,Strata,68,"13,750",-,Condominium,1,99 yrs from 12/09/2012,2016,Private,544687,19,54,North East Region,Sengkang
+BAYSHORE PARK,"1,025,000","1,173.28",874,06 Apr 2020,50 BAYSHORE ROAD #23-06,Resale,Strata,109,"9,404",-,Condominium,1,99 yrs from 17/03/1982,1986,Private,469977,16,46,East Region,Bedok
+REZI 24,"733,700",452.09,"1,623",06 Apr 2020,39 LORONG 24 GEYLANG #06-05,New Sale,Strata,42,"17,469",-,Apartment,1,Freehold,Uncompleted,Private,398636,14,39,Central Region,Geylang
+THE TESSARINA,"4,000,000","3,670.52","1,090",06 Apr 2020,20 WILBY ROAD #09-01,Resale,Strata,341,"11,730",-,Condominium,1,Freehold,2003,Private,276305,10,27,Central Region,Bukit Timah
+SPRINGDALE CONDOMINIUM,"1,500,000","1,345.5","1,115",06 Apr 2020,45 HINDHEDE WALK #05-04,Resale,Strata,125,"12,000",-,Condominium,1,999 yrs from 21/06/1877,1998,Private,587978,21,58,West Region,Bukit Panjang
+SEVENTY SAINT PATRICK'S,"2,000,000","1,216.33","1,644",06 Apr 2020,72 ST. PATRICK'S ROAD #01-11,Resale,Strata,113,"17,699",-,Condominium,1,Freehold,2016,Private,424177,15,42,East Region,Bedok
+JADESCAPE,"1,820,000","1,054.87","1,725",06 Apr 2020,4 SHUNFU ROAD #14-11,New Sale,Strata,98,"18,571",-,Condominium,1,99 yrs from 19/06/2018,Uncompleted,N.A,575743,20,57,Central Region,Bishan
+WOODSVALE,"710,000","1,313.21",541,06 Apr 2020,19 WOODLANDS DRIVE 72 #03-49,Resale,Strata,122,"5,820",-,Executive Condominium,1,99 yrs from 22/09/1997,2000,Private,738098,25,73,North Region,Woodlands
+CELESTIA,"1,800,000","2,120.51",849,06 Apr 2020,160 JOO CHIAT TERRACE #05-06,Resale,Strata,197,"9,137",-,Apartment,1,Freehold,2009,Private,427305,15,42,Central Region,Geylang
+BOTANNIA,"1,560,000","1,216.33","1,283",06 Apr 2020,31 WEST COAST PARK #04-23,Resale,Strata,113,"13,805",-,Condominium,1,956 yrs from 27/05/1928,2009,HDB,127649,05,12,West Region,Clementi
+PARC CLEMATIS,"1,171,000",721.19,"1,624",06 Apr 2020,8 JALAN LEMPENG #16-15,New Sale,Strata,67,"17,478",-,Apartment,1,99 yrs from 08/08/2019,Uncompleted,N.A,128796,05,12,West Region,Clementi
+JEWEL @ BUANGKOK,"1,228,000",936.47,"1,311",06 Apr 2020,91 COMPASSVALE BOW #06-37,Resale,Strata,87,"14,115",-,Condominium,1,99 yrs from 12/09/2012,2016,HDB,544688,19,54,North East Region,Sengkang
+ECO SANCTUARY,"1,310,000","1,162.51","1,127",06 Apr 2020,61 CHESTNUT AVENUE #07-03,Resale,Strata,108,"12,130",-,Condominium,1,99 yrs from 25/04/2012,2016,HDB,679522,23,67,West Region,Bukit Panjang
+RIO VISTA,"788,000","1,054.87",747,06 Apr 2020,26 UPPER SERANGOON VIEW #08-30,Resale,Strata,98,"8,041",-,Condominium,1,99 yrs from 02/01/2001,2004,Private,534206,19,53,North East Region,Hougang
+ONE DEVONSHIRE,"3,050,000","1,496.2","2,039",06 Apr 2020,1 DEVONSHIRE ROAD #30-02,Resale,Strata,139,"21,942",-,Condominium,1,Freehold,2011,Private,239896,09,23,Central Region,River Valley
+THE CANOPY,"840,000","1,022.58",821,06 Apr 2020,85 YISHUN AVENUE 11 #04-33,Resale,Strata,95,"8,842",-,Executive Condominium,1,99 yrs from 14/06/2010,2014,HDB,768865,27,76,North Region,Yishun
+THE FLORIDA,"870,000","1,291.68",674,06 Apr 2020,78 HOUGANG AVENUE 7 #12-31,Resale,Strata,120,"7,250",-,Executive Condominium,1,99 yrs from 16/12/1997,2000,HDB,534260,19,53,North East Region,Hougang
+CARISSA PARK CONDOMINIUM,"820,000",968.76,846,06 Apr 2020,2 FLORA DRIVE #07-42,Resale,Strata,90,"9,111",-,Condominium,1,Freehold,2001,Private,507025,17,50,East Region,Pasir Ris
+ARENA RESIDENCES,"1,523,000",818.06,"1,862",06 Apr 2020,20 GUILLEMARD CRESCENT #13-01,New Sale,Strata,76,"20,039",-,Apartment,1,Freehold,Uncompleted,HDB,399915,14,39,Central Region,Geylang
+WEST BAY CONDOMINIUM,"1,038,800","1,248.62",832,06 Apr 2020,56 WEST COAST CRESCENT #05-09,Resale,Strata,116,"8,955",-,Condominium,1,99 yrs from 01/03/1991,1993,Private,128038,05,12,West Region,Clementi
+PIERMONT GRAND,"1,024,600",871.88,"1,175",06 Apr 2020,46 SUMANG WALK #08-52,New Sale,Strata,81,"12,649",-,Executive Condominium,1,99 yrs from 04/06/2018,Uncompleted,N.A,828628,19,82,North East Region,Punggol
+MARINE BLUE,"4,500,000","3,670.52","1,226",06 Apr 2020,83 MARINE PARADE ROAD,Resale,Strata,341,"13,196",-,Terrace House,1,Freehold,2016,Private,449310,15,44,Central Region,Marine Parade
+STIRLING RESIDENCES,"1,197,000",635.08,"1,885",06 Apr 2020,23 STIRLING ROAD #06-12,New Sale,Strata,59,"20,288",-,Apartment,1,99 yrs from 18/08/2017,Uncompleted,N.A,148961,03,14,Central Region,Queenstown
+SPRINGLEAF GARDEN,"3,600,000","3,707.12",971,06 Apr 2020,38 SPRINGLEAF GARDEN,Resale,Land,344.4,"10,453",-,Semi-Detached House,1,Freehold,1984,HDB,788198,26,78,North Region,Yishun
+MARINA ONE RESIDENCES,"1,664,200",731.95,"2,274",06 Apr 2020,23 MARINA WAY #14-24,Resale,Strata,68,"24,474",-,Apartment,1,99 yrs from 01/07/2011,2017,Private,018979,01,01,Central Region,Downtown Core
+THOMSON HILLS ESTATE,"3,100,000","2,202.31","1,408",06 Apr 2020,68 THOMSON TERRACE,Resale,Land,204.6,"15,152",-,Terrace House,1,Freehold,-,Private,574595,20,57,North East Region,Ang Mo Kio
+REZI 24,"813,500",516.67,"1,574",06 Apr 2020,39 LORONG 24 GEYLANG #03-01,New Sale,Strata,48,"16,948",-,Apartment,1,Freehold,Uncompleted,N.A,398636,14,39,Central Region,Geylang
+LIVIA,"1,060,000","1,345.5",788,06 Apr 2020,69 PASIR RIS GROVE #02-13,Resale,Strata,125,"8,480",-,Condominium,1,99 yrs from 07/01/2008,2011,Private,518219,18,51,East Region,Pasir Ris
+KELULUT HILL,"2,300,000","1,614.6","1,425",06 Apr 2020,65 KELULUT HILL,Resale,Land,150,"15,333",-,Terrace House,1,999 yrs from 01/01/1879,1997,HDB,805848,28,80,North East Region,Serangoon
+EASTWOOD WALK GARDENS,"2,222,222","3,352.99",663,06 Apr 2020,2 EASTWOOD WALK,Resale,Land,311.5,"7,134",-,Terrace House,1,99 yrs from 07/04/1995,1997,N.A,486432,16,48,East Region,Bedok
+LEEDON GREEN,"6,543,000","2,680.24","2,441",06 Apr 2020,26 LEEDON HEIGHTS #01-07,New Sale,Strata,249,"26,277",-,Condominium,1,Freehold,Uncompleted,N.A,266221,10,26,Central Region,Bukit Timah
+KOPAR AT NEWTON,"1,158,000",516.67,"2,241",06 Apr 2020,6 MAKEWAY AVENUE #04-04,New Sale,Strata,48,"24,125",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+KOPAR AT NEWTON,"2,134,000",958,"2,228",06 Apr 2020,6 MAKEWAY AVENUE #08-06,New Sale,Strata,89,"23,978",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+THE ALPS RESIDENCES,"923,000",936.47,986,06 Apr 2020,105 TAMPINES STREET 86 #02-09,New Sale,Strata,87,"10,609",-,Condominium,1,99 yrs from 03/08/2015,2019,HDB,528577,18,52,East Region,Tampines
+THE M,"1,355,200",527.44,"2,569",06 Apr 2020,30 MIDDLE ROAD #11-08,New Sale,Strata,49,"27,657",-,Apartment,1,99 yrs from 03/07/2019,Uncompleted,HDB,188940,07,18,Central Region,Downtown Core
+STIRLING RESIDENCES,"1,232,000",635.08,"1,940",06 Apr 2020,23 STIRLING ROAD #15-12,New Sale,Strata,59,"20,881",-,Apartment,1,99 yrs from 18/08/2017,Uncompleted,HDB,148961,03,14,Central Region,Queenstown
+THE MAKENA,"2,220,000","1,636.13","1,357",06 Apr 2020,125 MEYER ROAD #09-05,Resale,Strata,152,"14,605",-,Condominium,1,Freehold,1998,Private,437936,15,43,Central Region,Marine Parade
+THE TAIPAN,"1,600,000","1,560.78","1,025",06 Apr 2020,25 JALAN HAJIJAH #05-01,Resale,Strata,145,"11,034",-,Apartment,1,Freehold,2003,Private,468721,16,46,East Region,Bedok
+LUXUS HILLS,"3,358,000","1,614.6","2,080",06 Apr 2020,8 LUXUS HILL VIEW,Resale,Land,150,"22,387",-,Terrace House,1,999 yrs from 01/01/1879,2020,Private,804493,28,80,North East Region,Serangoon
+GUILLEMARD EDGE,"600,000",409.03,"1,467",06 Apr 2020,38 LORONG 30 GEYLANG #04-15,Resale,Strata,38,"15,789",-,Apartment,1,Freehold,2014,HDB,398371,14,39,Central Region,Geylang
+LEITH GROVE,"900,000",850.36,"1,058",06 Apr 2020,6 LEITH PARK #03-02,Resale,Strata,79,"11,392",-,Apartment,1,Freehold,2007,HDB,547933,19,54,North East Region,Hougang
+DAINTREE RESIDENCE,"1,127,920",710.42,"1,588",06 Apr 2020,11D TOH TUCK ROAD #03-19,New Sale,Strata,66,"17,090",-,Condominium,1,99 yrs from 17/07/2017,Uncompleted,HDB,596126,21,59,Central Region,Bukit Timah
+AUSTVILLE RESIDENCES,"930,000","1,033.34",900,06 Apr 2020,15 SENGKANG EAST AVENUE #12-14,Resale,Strata,96,"9,688",-,Executive Condominium,1,99 yrs from 24/08/2010,2014,HDB,544806,19,54,North East Region,Sengkang
+BARTLEY RESIDENCES,"1,720,000","1,345.5","1,278",07 Apr 2020,7 LORONG HOW SUN #04-42,Resale,Strata,125,"13,760",-,Apartment,1,99 yrs from 29/06/2011,2015,Private,536564,19,53,North East Region,Serangoon
+BISHAN 8,"1,400,000","1,162.51","1,204",07 Apr 2020,61 BISHAN STREET 21 #05-03,Resale,Strata,108,"12,963",-,Condominium,1,99 yrs from 09/10/1996,1999,HDB,574044,20,57,Central Region,Bishan
+HIGH PARK RESIDENCES,"530,000",398.27,"1,331",07 Apr 2020,31 FERNVALE ROAD #22-47,Resale,Strata,37,"14,324",-,Apartment,1,99 yrs from 05/11/2014,2019,HDB,797417,28,79,North East Region,Sengkang
+THE GARDEN RESIDENCES,"737,000",452.09,"1,630",07 Apr 2020,1 SERANGOON NORTH VIEW #12-01,New Sale,Strata,42,"17,548",-,Apartment,1,99 yrs from 30/10/2017,Uncompleted,Private,554343,19,55,North East Region,Serangoon
+RIVERFRONT RESIDENCES,"1,342,000","1,108.69","1,210",07 Apr 2020,51 HOUGANG AVENUE 7 #03-60,New Sale,Strata,103,"13,029",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,N.A,533818,19,53,North East Region,Hougang
+THE RIVERVALE,"905,000","1,291.68",701,07 Apr 2020,7 RIVERVALE LINK #07-44,Resale,Strata,120,"7,542",-,Executive Condominium,1,99 yrs from 18/12/1997,2000,HDB,545125,19,54,North East Region,Sengkang
+OASIS GARDEN,"1,590,000","1,237.86","1,284",07 Apr 2020,55 JALAN BUNGA RAMPAI #12-07,Resale,Strata,115,"13,826",-,Condominium,1,Freehold,2009,HDB,538422,19,53,Central Region,Toa Payoh
+KOPAR AT NEWTON,"1,201,830",516.67,"2,326",07 Apr 2020,8 MAKEWAY AVENUE #03-14,New Sale,Strata,48,"25,038",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228607,09,22,Central Region,Novena
+SERANGOON GARDEN ESTATE,"3,000,000","2,486.48","1,207",07 Apr 2020,38 BRAEMAR DRIVE,Resale,Land,231,"12,987",-,Semi-Detached House,1,999 yrs from 01/01/1955,1997,HDB,559441,19,55,North East Region,Serangoon
+LE HILL CONDOMINIUM,"1,150,000",990.29,"1,161",07 Apr 2020,42 PASIR PANJANG HILL #04-05,Resale,Strata,92,"12,500",-,Condominium,1,Freehold,1999,Private,118894,05,11,Central Region,Queenstown
+CABANA,"1,830,000","2,938.57",623,07 Apr 2020,77 SUNRISE TERRACE,Resale,Strata,273,"6,703",-,Terrace House,1,103 yrs from 23/04/2009,2013,HDB,806406,28,80,North East Region,Ang Mo Kio
+BELLE VUE RESIDENCES,"3,250,000","2,271.2","1,431",07 Apr 2020,33 OXLEY WALK #05-37,Resale,Strata,211,"15,403",-,Condominium,1,Freehold,2010,N.A,238599,09,23,Central Region,River Valley
+CENTURY WOODS,"1,550,000","1,614.6",960,07 Apr 2020,35 WOODGROVE WALK,Resale,Land,150,"10,333",-,Terrace House,1,99 yrs from 04/12/1996,2001,Private,738178,25,73,North Region,Woodlands
+HOUGANG GREEN,"770,000","1,140.98",675,07 Apr 2020,5 BUANGKOK GREEN #10-05,Resale,Strata,106,"7,264",-,Apartment,1,99 yrs from 01/12/1994,1998,HDB,539748,19,53,North East Region,Hougang
+THE FLORENCE RESIDENCES,"1,064,000",721.19,"1,475",07 Apr 2020,81 HOUGANG AVENUE 2 #05-08,New Sale,Strata,67,"15,881",-,Apartment,1,99 yrs from 24/12/2018,Uncompleted,N.A,538859,19,53,North East Region,Hougang
+CELESTIA,"808,588",645.84,"1,252",07 Apr 2020,160 JOO CHIAT TERRACE #04-02,Resale,Strata,60,"13,476",-,Apartment,1,Freehold,2009,HDB,427305,15,42,Central Region,Geylang
+RIVERTREES RESIDENCES,"1,440,000","1,270.15","1,134",07 Apr 2020,29 FERNVALE CLOSE #07-22,Resale,Strata,118,"12,203",-,Apartment,1,99 yrs from 28/08/2013,2017,Private,797464,28,79,North East Region,Sengkang
+SPRINGDALE CONDOMINIUM,"1,400,000","1,345.5","1,041",07 Apr 2020,47 HINDHEDE WALK #04-01,Resale,Strata,125,"11,200",-,Condominium,1,999 yrs from 21/06/1877,1998,Private,587977,21,58,West Region,Bukit Panjang
+WATERCOLOURS,"1,300,000","1,657.66",784,07 Apr 2020,25 PASIR RIS LINK #01-13,Resale,Strata,154,"8,442",-,Executive Condominium,1,99 yrs from 10/01/2012,2014,HDB,518150,18,51,East Region,Pasir Ris
+MARGARET VILLE,"2,147,300","1,184.04","1,814",07 Apr 2020,20 MARGARET DRIVE #21-08,New Sale,Strata,110,"19,521",-,Apartment,1,99 yrs from 13/03/2017,Uncompleted,N.A,149312,03,14,Central Region,Queenstown
+N.A.,"2,325,000","2,346.55",991,07 Apr 2020,25 CHUAN HOE AVENUE,Resale,Land,218,"10,665",-,Terrace House,1,999 yrs from 14/02/1881,-,Private,549829,19,54,North East Region,Hougang
+ESPARINA RESIDENCES,"1,055,000","1,001.05","1,054",07 Apr 2020,115 COMPASSVALE BOW #04-11,Resale,Strata,93,"11,344",-,Executive Condominium,1,99 yrs from 02/06/2010,2013,HDB,544815,19,54,North East Region,Sengkang
+D'NEST,"1,350,000","1,270.15","1,063",07 Apr 2020,147 PASIR RIS GROVE #07-69,Resale,Strata,118,"11,441",-,Condominium,1,99 yrs from 20/10/2010,2017,Private,518138,18,51,East Region,Pasir Ris
+WATERCOLOURS,"816,800",947.23,862,07 Apr 2020,29 PASIR RIS LINK #08-21,Resale,Strata,88,"9,282",-,Executive Condominium,1,99 yrs from 10/01/2012,2014,Private,518152,18,51,East Region,Pasir Ris
+SKIES MILTONIA,"940,000",968.76,970,07 Apr 2020,29 MILTONIA CLOSE #10-19,Resale,Strata,90,"10,444",-,Condominium,1,99 yrs from 20/02/2012,2016,HDB,768062,27,76,North Region,Yishun
+BARTLEY RESIDENCES,"670,000",462.85,"1,448",07 Apr 2020,7A LORONG HOW SUN #09-49,Resale,Strata,43,"15,581",-,Apartment,1,99 yrs from 29/06/2011,2015,HDB,536565,19,53,North East Region,Serangoon
+HEDGES PARK CONDOMINIUM,"530,000",484.38,"1,094",07 Apr 2020,71 FLORA DRIVE #08-02,Resale,Strata,45,"11,778",-,Condominium,1,99 yrs from 28/07/2010,2015,Private,506881,17,50,East Region,Pasir Ris
+AUSTVILLE RESIDENCES,"1,015,000","1,270.15",799,07 Apr 2020,23 SENGKANG EAST AVENUE #02-30,Resale,Strata,118,"8,602",-,Executive Condominium,1,99 yrs from 24/08/2010,2014,HDB,544810,19,54,North East Region,Sengkang
+RIVERSAILS,"1,250,000","1,108.69","1,127",08 Apr 2020,12 UPPER SERANGOON CRESCENT #16-35,Resale,Strata,103,"12,136",-,Condominium,1,99 yrs from 07/12/2011,2016,HDB,534030,19,53,North East Region,Hougang
+THE EDEN AT TAMPINES,"800,000","1,011.82",791,08 Apr 2020,25 TAMPINES STREET 34 #03-19,Resale,Strata,94,"8,511",-,Executive Condominium,1,99 yrs from 12/09/2000,2003,Private,529234,18,52,East Region,Tampines
+SUNRISE GARDENS,"745,000",979.52,761,08 Apr 2020,53 SUNRISE AVENUE #02-03,Resale,Strata,91,"8,187",-,Condominium,1,99 yrs from 24/06/1995,1998,Private,806746,28,80,North East Region,Ang Mo Kio
+THE TAPESTRY,"1,214,190",925.7,"1,312",08 Apr 2020,55 TAMPINES STREET 86 #01-25,New Sale,Strata,86,"14,118",-,Condominium,1,99 yrs from 31/07/2017,Uncompleted,HDB,528541,18,52,East Region,Tampines
+ONE SHENTON,"1,185,000",613.55,"1,931",08 Apr 2020,1 SHENTON WAY #22-08,Resale,Strata,57,"20,789",-,Apartment,1,99 yrs from 14/10/2005,2011,Private,068803,01,06,Central Region,Downtown Core
+MARINA ONE RESIDENCES,"2,297,998",990.29,"2,321",08 Apr 2020,23 MARINA WAY #20-19,Resale,Strata,92,"24,978",-,Apartment,1,99 yrs from 01/07/2011,2017,Private,018979,01,01,Central Region,Downtown Core
+CHATEAU LE FAME,"1,725,000","1,151.75","1,498",08 Apr 2020,51 EWE BOON ROAD #03-05,Resale,Strata,107,"16,121",-,Apartment,1,Freehold,2000,HDB,259345,10,25,Central Region,Tanglin
+ESPARINA RESIDENCES,"1,015,000","1,076.4",943,08 Apr 2020,127 COMPASSVALE BOW #01-34,Resale,Strata,100,"10,150",-,Executive Condominium,1,99 yrs from 02/06/2010,2013,Private,544821,19,54,North East Region,Sengkang
+THE WISTERIA,"900,000",710.42,"1,267",08 Apr 2020,590 YISHUN RING ROAD #12-01,Sub Sale,Strata,66,"13,636",-,Apartment,1,99 yrs from 27/04/2015,2018,HDB,768694,27,76,North Region,Yishun
+THE WATERSIDE,"3,800,000","2,400.37","1,583",08 Apr 2020,11 TANJONG RHU ROAD #18-04,Resale,Strata,223,"17,040",-,Condominium,1,Freehold,1992,Private,436896,15,43,Central Region,Kallang
+THE CANOPY,"890,000","1,033.34",861,08 Apr 2020,85 YISHUN AVENUE 11 #12-31,Resale,Strata,96,"9,271",-,Executive Condominium,1,99 yrs from 14/06/2010,2014,N.A,768865,27,76,North Region,Yishun
+THE MINTON,"1,010,000",979.52,"1,031",08 Apr 2020,8A HOUGANG STREET 11 #07-28,Resale,Strata,91,"11,099",-,Condominium,1,99 yrs from 27/07/2007,2013,HDB,534081,19,53,North East Region,Hougang
+N.A.,"980,000",968.76,"1,012",08 Apr 2020,188B JOO CHIAT PLACE,Resale,Strata,90,"10,889",-,Apartment,1,Freehold,-,Private,427900,15,42,Central Region,Geylang
+SELETAR SPRINGS CONDOMINIUM,"910,000","1,302.44",699,08 Apr 2020,110 GERALD DRIVE #03-48,Resale,Strata,121,"7,521",-,Condominium,1,99 yrs from 12/08/1997,2000,HDB,799036,28,79,North East Region,Hougang
+SEMBAWANG HILLS ESTATE,"2,300,000","2,001.03","1,149",08 Apr 2020,36 JALAN MENARONG,Resale,Land,185.9,"12,372",-,Terrace House,1,Freehold,-,Private,577443,20,57,North East Region,Ang Mo Kio
+HILLCREST VILLA,"2,970,000","3,089.27",961,08 Apr 2020,3P HILLCREST ROAD,Resale,Strata,287,"10,348",-,Terrace House,1,99 yrs from 03/08/2006,2009,Private,286673,11,28,Central Region,Bukit Timah
+KERRISDALE,"1,388,000","1,259.39","1,102",08 Apr 2020,36 STURDEE ROAD #05-12,Resale,Strata,117,"11,863",-,Condominium,1,99 yrs from 02/04/1998,2005,Private,207855,08,20,Central Region,Kallang
+CENTRAL IMPERIAL,"560,000",548.96,"1,020",08 Apr 2020,3 LORONG 14 GEYLANG #05-05,Resale,Strata,51,"10,980",-,Apartment,1,Freehold,2014,HDB,398915,14,39,Central Region,Geylang
+PARC RIVIERA,"988,000",710.42,"1,391",08 Apr 2020,101 WEST COAST VALE #13-10,Sub Sale,Strata,66,"14,970",-,Condominium,1,99 yrs from 11/11/2015,2019,HDB,126753,05,12,West Region,Clementi
+THE CASCADIA,"1,985,000","1,356.26","1,464",08 Apr 2020,929 BUKIT TIMAH ROAD #01-21,Resale,Strata,126,"15,754",-,Condominium,1,Freehold,2010,Private,589642,21,58,Central Region,Bukit Timah
+EIGHT COURTYARDS,"1,210,000","1,151.75","1,051",08 Apr 2020,18A CANBERRA DRIVE #10-44,Resale,Strata,107,"11,308",-,Condominium,1,99 yrs from 20/09/2010,2014,Private,768099,27,76,North Region,Yishun
+THE MONTAGE,"1,886,000","1,797.59","1,049",08 Apr 2020,50 LORONG M TELOK KURAU #05-02,Resale,Strata,167,"11,293",-,Apartment,1,Freehold,2009,Private,425342,15,42,East Region,Bedok
+KINGSFORD . HILLVIEW PEAK,"670,000",548.96,"1,220",08 Apr 2020,101 HILLVIEW RISE #17-05,Resale,Strata,51,"13,137",-,Condominium,1,99 yrs from 04/06/2012,2017,HDB,667981,23,66,West Region,Bukit Batok
+WOODHAVEN,"790,000",850.36,929,09 Apr 2020,71 WOODGROVE AVENUE #02-12,Resale,Strata,79,"10,000",-,Condominium,1,99 yrs from 07/02/2011,2015,HDB,737808,25,73,North Region,Woodlands
+MANDARIN GARDENS,"1,425,000","1,571.54",907,09 Apr 2020,7 SIGLAP ROAD #06-66,Resale,Strata,146,"9,760",-,Condominium,1,99 yrs from 08/03/1982,1986,Private,448909,15,44,East Region,Bedok
+THE SPRINGSIDE,"2,860,000","1,710.4","1,672",09 Apr 2020,147 SPRINGSIDE AVENUE,Resale,Land,158.9,"17,999",-,Terrace House,1,Freehold,2010,Private,786209,26,78,North Region,Yishun
+RIVEREDGE,"1,760,000","1,334.74","1,319",09 Apr 2020,21 SAMPAN PLACE #04-01,Resale,Strata,124,"14,194",-,Condominium,1,99 yrs from 26/02/2004,2008,Private,436593,15,43,Central Region,Kallang
+RIVERFRONT RESIDENCES,"1,207,000",914.94,"1,319",09 Apr 2020,53 HOUGANG AVENUE 7 #01-67,New Sale,Strata,85,"14,200",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,HDB,533819,19,53,North East Region,Hougang
+RIVERSOUND RESIDENCE,"1,260,000","1,259.39","1,000",09 Apr 2020,9A SENGKANG EAST AVENUE #13-35,Resale,Strata,117,"10,769",-,Condominium,1,99 yrs from 26/08/2011,2015,Private,544743,19,54,North East Region,Sengkang
+ECO,"740,000",548.96,"1,348",09 Apr 2020,283 BEDOK SOUTH AVENUE 3 #03-46,Resale,Strata,51,"14,510",-,Condominium,1,99 yrs from 14/05/2012,2017,HDB,465460,16,46,East Region,Bedok
+BLOSSOM RESIDENCES,"845,000",968.76,872,09 Apr 2020,30 SEGAR ROAD #09-07,Resale,Strata,90,"9,389",-,Executive Condominium,1,99 yrs from 02/03/2011,2014,HDB,677721,23,67,West Region,Bukit Panjang
+THOMSON HILLS ESTATE,"2,550,000","2,150.65","1,186",09 Apr 2020,85 SEMBAWANG HILLS DRIVE,Resale,Land,199.8,"12,763",-,Terrace House,1,Freehold,-,Private,575935,20,57,North East Region,Ang Mo Kio
+RIVERSOUND RESIDENCE,"900,000",904.18,995,09 Apr 2020,5 SENGKANG EAST AVENUE #12-13,Resale,Strata,84,"10,714",-,Condominium,1,99 yrs from 26/08/2011,2015,N.A,544740,19,54,North East Region,Sengkang
+PALM GARDENS,"866,000","1,216.33",712,09 Apr 2020,2C HONG SAN WALK #07-04,Resale,Strata,113,"7,664",-,Condominium,1,99 yrs from 12/08/1996,2000,HDB,689049,23,68,West Region,Choa Chu Kang
+WATERCOLOURS,"700,000",785.77,891,09 Apr 2020,21 PASIR RIS LINK #11-04,Resale,Strata,73,"9,589",-,Executive Condominium,1,99 yrs from 10/01/2012,2014,HDB,518168,18,51,East Region,Pasir Ris
+HIGH PARK RESIDENCES,"635,000",462.85,"1,372",09 Apr 2020,31 FERNVALE ROAD #18-41,Resale,Strata,43,"14,767",-,Apartment,1,99 yrs from 05/11/2014,2019,HDB,797417,28,79,North East Region,Sengkang
+BARTLEY RESIDENCES,"1,475,000","1,076.4","1,370",09 Apr 2020,1A LORONG HOW SUN #10-07,Resale,Strata,100,"14,750",-,Apartment,1,99 yrs from 29/06/2011,2015,HDB,536559,19,53,North East Region,Serangoon
+TIVOLI GRANDE,"1,320,000","1,528.49",864,09 Apr 2020,126 KOON SENG ROAD #05-07,Resale,Strata,142,"9,296",-,Apartment,1,Freehold,2012,Private,427059,15,42,Central Region,Marine Parade
+THE MINTON,"1,635,000","1,496.2","1,093",09 Apr 2020,10 HOUGANG STREET 11 #05-29,Resale,Strata,139,"11,763",-,Condominium,1,99 yrs from 27/07/2007,2013,N.A,534080,19,53,North East Region,Hougang
+MEADOWS @ PEIRCE,"1,720,000","2,238.91",768,09 Apr 2020,628 UPPER THOMSON ROAD #05-49,Resale,Strata,208,"8,269",-,Condominium,1,Freehold,2012,Private,787131,26,78,North East Region,Ang Mo Kio
+BOTANIQUE AT BARTLEY,"1,428,000",925.7,"1,543",09 Apr 2020,227 UPPER PAYA LEBAR ROAD #14-15,Sub Sale,Strata,86,"16,605",-,Condominium,1,99 yrs from 14/04/2014,2019,Private,533872,19,53,North East Region,Serangoon
+TIVOLI GRANDE,"995,000",850.36,"1,170",09 Apr 2020,126 KOON SENG ROAD #02-04,Resale,Strata,79,"12,595",-,Apartment,1,Freehold,2012,Private,427059,15,42,Central Region,Marine Parade
+ECO SANCTUARY,"950,000",753.48,"1,261",09 Apr 2020,65 CHESTNUT AVENUE #08-21,Resale,Strata,70,"13,571",-,Condominium,1,99 yrs from 25/04/2012,2016,Private,679524,23,67,West Region,Bukit Panjang
+WINDERMERE,"860,000","1,442.38",596,09 Apr 2020,26 CHOA CHU KANG STREET 64 #03-03,Resale,Strata,134,"6,418",-,Executive Condominium,1,99 yrs from 03/03/1997,1999,HDB,689096,23,68,West Region,Choa Chu Kang
+LUXUS HILLS,"3,318,000","1,643.66","2,019",09 Apr 2020,17 SELETAR GREEN AVENUE,Resale,Land,152.7,"21,729",-,Terrace House,1,999 yrs from 01/01/1879,2020,HDB,804478,28,80,North East Region,Serangoon
+YEW MEI GREEN,"970,000","1,410.08",688,09 Apr 2020,52 CHOA CHU KANG NORTH 6 #19-16,Resale,Strata,131,"7,405",-,Executive Condominium,1,99 yrs from 01/12/1997,2000,HDB,689575,23,68,West Region,Choa Chu Kang
+THE ARCADIA,"6,940,000","7,502.51",925,09 Apr 2020,237 ARCADIA ROAD #10-04,Resale,Strata,697,"9,957",-,Condominium,1,99 yrs from 17/08/1979,1983,Private,289844,11,28,Central Region,Bukit Timah
+THE MONTAGE,"1,520,000","1,248.62","1,217",09 Apr 2020,50 LORONG M TELOK KURAU #03-05,Resale,Strata,116,"13,103",-,Apartment,1,Freehold,2009,Private,425342,15,42,East Region,Bedok
+PALM ISLES,"735,000",807.3,910,09 Apr 2020,40 FLORA DRIVE #04-59,Resale,Strata,75,"9,800",-,Condominium,1,99 yrs from 14/09/2011,2015,HDB,506866,17,50,East Region,Pasir Ris
+PIERMONT GRAND,"966,330",839.59,"1,151",10 Apr 2020,34 SUMANG WALK #17-25,New Sale,Strata,78,"12,389",-,Executive Condominium,1,99 yrs from 04/06/2018,Uncompleted,HDB,828622,19,82,North East Region,Punggol
+THE TAPESTRY,"911,020",602.78,"1,511",11 Apr 2020,51 TAMPINES STREET 86 #14-10,New Sale,Strata,56,"16,268",-,Condominium,1,99 yrs from 31/07/2017,Uncompleted,HDB,528539,18,52,East Region,Tampines
+TREASURE AT TAMPINES,"860,000",592.02,"1,453",11 Apr 2020,13 TAMPINES LANE #06-51,New Sale,Strata,55,"15,636",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,HDB,528479,18,52,East Region,Tampines
+OLA,"1,448,000","1,388.56","1,043",12 Apr 2020,78 ANCHORVALE CRESCENT #08-18,New Sale,Strata,129,"11,225",-,Executive Condominium,1,99 yrs from 14/12/2018,Uncompleted,N.A,544603,19,54,North East Region,Sengkang
+ONAN COURT,"1,650,000","1,776.06",929,13 Apr 2020,291A ONAN ROAD #02-02,Resale,Strata,165,"10,000",-,Apartment,1,Freehold,1998,Private,424774,15,42,Central Region,Marine Parade
+N.A.,"3,200,000","1,774.98","1,803",13 Apr 2020,146 LANGSAT ROAD,Resale,Land,164.9,"19,406",-,Terrace House,1,Freehold,2013,HDB,426779,15,42,Central Region,Geylang
+BAYSHORE PARK,"1,125,000","1,291.68",871,13 Apr 2020,52 BAYSHORE ROAD #06-05,Resale,Strata,120,"9,375",-,Condominium,1,99 yrs from 17/03/1982,1986,Private,469978,16,46,East Region,Bedok
+THE FLORENCE RESIDENCES,"1,015,000",667.37,"1,521",13 Apr 2020,83 HOUGANG AVENUE 2 #08-14,New Sale,Strata,62,"16,371",-,Apartment,1,99 yrs from 24/12/2018,Uncompleted,HDB,538860,19,53,North East Region,Hougang
+THE RAINFOREST,"1,143,000","1,151.75",992,13 Apr 2020,339 CHOA CHU KANG AVENUE 3 #13-18,Resale,Strata,107,"10,682",-,Executive Condominium,1,99 yrs from 28/06/2011,2015,Private,689873,23,68,West Region,Choa Chu Kang
+MY MANHATTAN,"750,000",559.73,"1,340",13 Apr 2020,33 SIMEI STREET 3 #11-20,Resale,Strata,52,"14,423",-,Condominium,1,99 yrs from 11/08/2010,2014,Private,529903,18,52,East Region,Tampines
+HORIZON GARDENS,"1,920,000","3,239.96",593,13 Apr 2020,615 ANG MO KIO AVENUE 2,Resale,Strata,301,"6,379",-,Terrace House,1,99 yrs from 23/06/1995,2002,Private,567963,20,56,North East Region,Ang Mo Kio
+ZEDGE,"1,138,000",721.19,"1,578",13 Apr 2020,2 AKYAB ROAD #18-01,Resale,Strata,67,"16,985",-,Apartment,1,Freehold,2010,Private,309973,11,30,Central Region,Novena
+KOPAR AT NEWTON,"1,710,000",688.9,"2,482",13 Apr 2020,8 MAKEWAY AVENUE #11-13,New Sale,Strata,64,"26,719",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228607,09,22,Central Region,Novena
+ASCENTIA SKY,"2,300,000","1,797.59","1,279",13 Apr 2020,1 ALEXANDRA VIEW #26-06,Resale,Strata,167,"13,772",-,Condominium,1,99 yrs from 26/03/2008,2013,Private,158748,03,15,Central Region,Bukit Merah
+THE BENCOOLEN,"1,300,000","1,044.11","1,245",13 Apr 2020,180A BENCOOLEN STREET #16-08,Resale,Strata,97,"13,402",-,Apartment,1,99 yrs from 24/06/1995,1999,HDB,189647,07,18,Central Region,Rochor
+WATERTOWN,"1,515,000","1,108.69","1,366",13 Apr 2020,75 PUNGGOL CENTRAL #11-77,Resale,Strata,103,"14,709",-,Apartment,1,99 yrs from 18/05/2011,2017,N.A,828757,19,82,North East Region,Punggol
+CHUAN VILLAS,"1,730,000","1,614.6","1,071",13 Apr 2020,25 CHUAN CLOSE,Resale,Land,150,"11,533",-,Terrace House,1,99 yrs from 04/12/1996,2000,Private,554900,19,55,North East Region,Serangoon
+PRIVE,"1,098,000","1,054.87","1,041",13 Apr 2020,31 PUNGGOL FIELD #17-02,Resale,Strata,98,"11,204",-,Executive Condominium,1,99 yrs from 14/09/2010,2013,HDB,828816,19,82,North East Region,Punggol
+CARABELLE,"2,300,000","1,819.12","1,264",13 Apr 2020,57 WEST COAST WAY #12-13,Resale,Strata,169,"13,609",-,Condominium,1,956 yrs from 27/05/1928,2009,Private,127018,05,12,West Region,Clementi
+CITYLIGHTS,"1,700,000","1,356.26","1,253",13 Apr 2020,80 JELLICOE ROAD #19-04,Resale,Strata,126,"13,492",-,Condominium,1,99 yrs from 05/01/2004,2007,Private,208766,08,20,Central Region,Kallang
+THE RIVERINA,"1,920,000","2,287.35",839,13 Apr 2020,52 RIVERINA VIEW,Resale,Land,212.5,"9,035",-,Semi-Detached House,1,99 yrs from 26/06/1996,2000,Private,518401,18,51,East Region,Pasir Ris
+RIO VISTA,"1,000,000","1,248.62",801,13 Apr 2020,30 UPPER SERANGOON VIEW #13-37,Resale,Strata,116,"8,621",-,Condominium,1,99 yrs from 02/01/2001,2004,Private,534208,19,53,North East Region,Hougang
+LUXUS HILLS,"3,600,000","2,206.62","1,631",13 Apr 2020,76 LUXUS HILL DRIVE,Resale,Land,205,"17,561",-,Terrace House,1,999 yrs from 01/01/1879,2018,HDB,804795,28,80,North East Region,Serangoon
+LE HILL CONDOMINIUM,"1,450,000","1,280.92","1,132",13 Apr 2020,42 PASIR PANJANG HILL #03-08,Resale,Strata,119,"12,185",-,Condominium,1,Freehold,1999,HDB,118894,05,11,Central Region,Queenstown
+CHAPEL COURT,"2,070,000","1,593.07","1,299",13 Apr 2020,27A SEA AVENUE #01-02,Resale,Strata,148,"13,986",-,Apartment,1,Freehold,1997,Private,424248,15,42,Central Region,Marine Parade
+CITYLIFE@TAMPINES,"1,250,000","1,280.92",976,13 Apr 2020,67 TAMPINES CENTRAL 7 #13-32,Resale,Strata,119,"10,504",-,Executive Condominium,1,99 yrs from 13/08/2012,2016,Private,528598,18,52,East Region,Tampines
+THE QUARTZ,"1,250,000","1,184.04","1,056",13 Apr 2020,69 COMPASSVALE BOW #18-37,Resale,Strata,110,"11,364",-,Condominium,1,99 yrs from 18/04/2005,2009,HDB,544993,19,54,North East Region,Sengkang
+THE HILLSIDE,"1,850,000","1,765.3","1,048",13 Apr 2020,343 UPPER BUKIT TIMAH ROAD #01-04,Resale,Strata,164,"11,280",-,Condominium,1,Freehold,2001,Private,588196,21,58,West Region,Bukit Batok
+CLUNY PARK RESIDENCE,"2,750,000","1,216.33","2,261",13 Apr 2020,99 CLUNY PARK ROAD #01-10,Resale,Strata,113,"24,336",-,Condominium,1,Freehold,2016,Private,257496,10,25,Central Region,Tanglin
+THE CLAYMORE,"17,000,000","4,919.15","3,456",13 Apr 2020,27 CLAYMORE ROAD #25-03,Resale,Strata,457,"37,199",-,Condominium,1,Freehold,1985,Private,229544,09,22,Central Region,Newton
+BARTLEY RISE ESTATE,"3,100,000","1,874.01","1,654",13 Apr 2020,43 EDEN GROVE,Resale,Land,174.1,"17,806",-,Terrace House,1,Freehold,-,Private,539089,19,53,North East Region,Serangoon
+PRIVE,"1,130,000","1,130.22","1,000",13 Apr 2020,33 PUNGGOL FIELD #15-16,Resale,Strata,105,"10,762",-,Executive Condominium,1,99 yrs from 14/09/2010,2013,HDB,828817,19,82,North East Region,Punggol
+THE RAINFOREST,"1,220,000","1,291.68",945,13 Apr 2020,333 CHOA CHU KANG AVENUE 3 #03-07,Resale,Strata,120,"10,167",-,Executive Condominium,1,99 yrs from 28/06/2011,2015,Private,689870,23,68,West Region,Choa Chu Kang
+CENTRA LOFT,"583,000",430.56,"1,354",13 Apr 2020,3 LORONG 35 GEYLANG #03-06,Resale,Strata,40,"14,575",-,Apartment,1,Freehold,2013,Private,387935,14,38,Central Region,Geylang
+HIGH PARK RESIDENCES,"850,000",818.06,"1,039",13 Apr 2020,31 FERNVALE ROAD #25-50,Resale,Strata,76,"11,184",-,Apartment,1,99 yrs from 05/11/2014,2019,HDB,797417,28,79,North East Region,Sengkang
+BEACON HEIGHTS,"1,330,000","1,108.69","1,200",13 Apr 2020,8 MAR THOMA ROAD #23-02,Resale,Strata,103,"12,913",-,Condominium,1,999 yrs from 02/06/1882,2012,Private,328689,12,32,Central Region,Kallang
+BALLOTA PARK CONDOMINIUM,"1,150,000","1,420.85",809,13 Apr 2020,150 MARIAM WAY #03-03,Resale,Strata,132,"8,712",-,Condominium,1,Freehold,2000,Private,507079,17,50,East Region,Pasir Ris
+THE AMARELLE,"750,000",548.96,"1,366",13 Apr 2020,49 LIM AH WOO ROAD #02-05,Resale,Strata,51,"14,706",-,Apartment,1,Freehold,2009,Private,438128,15,43,Central Region,Geylang
+ROSEWOOD SUITES,"640,000",710.42,901,13 Apr 2020,65 ROSEWOOD DRIVE #03-22,Resale,Strata,66,"9,697",-,Condominium,1,99 yrs from 25/02/2008,2011,HDB,737875,25,73,North Region,Woodlands
+SELETAR SPRINGS CONDOMINIUM,"700,000","1,011.82",692,13 Apr 2020,110 GERALD DRIVE #02-57,Resale,Strata,94,"7,447",-,Condominium,1,99 yrs from 12/08/1997,2000,HDB,799036,28,79,North East Region,Hougang
+SHERWOOD TOWER,"1,250,000","1,517.72",824,13 Apr 2020,3 JALAN ANAK BUKIT #28-02,Resale,Strata,141,"8,865",-,Apartment,1,99 yrs from 30/08/1976,1980,Private,588998,21,58,Central Region,Bukit Timah
+THE TRE VER,"1,167,000",699.66,"1,668",13 Apr 2020,66 POTONG PASIR AVENUE 1 #10-25,New Sale,Strata,65,"17,954",-,Condominium,1,99 yrs from 27/03/2018,Uncompleted,Private,358394,13,35,Central Region,Toa Payoh
+SETIA RESIDENCES,"6,100,000","3,347.6","1,822",13 Apr 2020,11 EVELYN ROAD #12-01,Resale,Strata,311,"19,614",-,Apartment,1,Freehold,2003,Private,309304,11,30,Central Region,Novena
+SIMS URBAN OASIS,"730,000",462.85,"1,577",14 Apr 2020,2 SIMS DRIVE #07-10,Resale,Strata,43,"16,977",-,Condominium,1,99 yrs from 29/07/2014,2017,HDB,387386,14,38,Central Region,Geylang
+KANDIS RESIDENCE,"990,000",796.54,"1,243",14 Apr 2020,2 KANDIS LINK #01-05,New Sale,Strata,74,"13,378",-,Condominium,1,99 yrs from 11/07/2016,Uncompleted,N.A,756967,27,75,North Region,Sembawang
+RIVERBANK @ FERNVALE,"1,030,000",947.23,"1,087",14 Apr 2020,11 FERNVALE CLOSE #11-02,Resale,Strata,88,"11,705",-,Condominium,1,99 yrs from 10/07/2013,2017,Private,797475,28,79,North East Region,Sengkang
+THE TROPICA,"1,450,000","1,786.82",811,14 Apr 2020,55 TAMPINES AVENUE 1 #01-02,Resale,Strata,166,"8,735",-,Condominium,1,99 yrs from 04/12/1996,2000,Private,529773,18,52,East Region,Tampines
+EDELWEISS PARK CONDOMINIUM,"1,050,000","1,270.15",827,14 Apr 2020,98 FLORA ROAD #03-59,Resale,Strata,118,"8,898",-,Condominium,1,Freehold,2006,Private,507008,17,50,East Region,Pasir Ris
+TREVISTA,"2,300,000","1,776.06","1,295",14 Apr 2020,23 LORONG 3 TOA PAYOH #37-09,Resale,Strata,165,"13,939",-,Condominium,1,99 yrs from 15/07/2008,2011,Private,319582,12,31,Central Region,Toa Payoh
+PALM ISLES,"1,100,000","1,119.46",983,14 Apr 2020,34 FLORA DRIVE #07-21,Resale,Strata,104,"10,577",-,Condominium,1,99 yrs from 14/09/2011,2015,Private,506893,17,50,East Region,Pasir Ris
+THE TAMPINES TRILLIANT,"1,128,000","1,001.05","1,127",14 Apr 2020,23 TAMPINES CENTRAL 7 #08-28,Resale,Strata,93,"12,129",-,Executive Condominium,1,99 yrs from 13/07/2011,2015,HDB,528609,18,52,East Region,Tampines
+STILLZ RESIDENCE,"1,610,800","1,711.48",941,14 Apr 2020,21 LORONG 108 CHANGI #05-03,Resale,Strata,159,"10,131",-,Apartment,1,Freehold,2011,Private,426411,15,42,Central Region,Geylang
+BOULEVARD 88,"10,315,200","2,777.11","3,714",14 Apr 2020,88 ORCHARD BOULEVARD #07-05,New Sale,Strata,258,"39,981",-,Apartment,1,Freehold,Uncompleted,Private,248656,10,24,Central Region,Orchard
+BOULEVARD 88,"10,264,800","2,766.35","3,711",14 Apr 2020,88 ORCHARD BOULEVARD #07-06,New Sale,Strata,257,"39,941",-,Apartment,1,Freehold,Uncompleted,Private,248656,10,24,Central Region,Orchard
+REGENT HEIGHTS,"870,000","1,173.28",742,14 Apr 2020,50 BUKIT BATOK EAST AVENUE 5 #21-07,Resale,Strata,109,"7,982",-,Condominium,1,99 yrs from 07/11/1995,1999,HDB,659801,23,65,West Region,Bukit Batok
+THE GARDENS AT BISHAN,"1,380,000","1,151.75","1,198",14 Apr 2020,1 SIN MING WALK #13-35,Resale,Strata,107,"12,897",-,Condominium,1,99 yrs from 22/03/1997,2004,Private,575574,20,57,Central Region,Bishan
+AVENUE SOUTH RESIDENCE,"1,060,000",527.44,"2,010",14 Apr 2020,13 SILAT AVENUE #10-39,New Sale,Strata,49,"21,633",-,Apartment,1,99 yrs from 14/08/2018,Uncompleted,Private,168878,03,16,Central Region,Bukit Merah
+RIVERPARC RESIDENCE,"863,000",990.29,871,14 Apr 2020,98 PUNGGOL DRIVE #06-18,Resale,Strata,92,"9,380",-,Executive Condominium,1,99 yrs from 27/12/2010,2014,HDB,828798,19,82,North East Region,Punggol
+OPERA ESTATE,"2,650,000","1,630.75","1,625",14 Apr 2020,13 FIDELIO STREET,Resale,Land,151.5,"17,492",-,Terrace House,1,Freehold,-,Private,458403,15,45,East Region,Bedok
+WATERCOLOURS,"898,000","1,065.64",843,15 Apr 2020,29 PASIR RIS LINK #02-20,Resale,Strata,99,"9,071",-,Executive Condominium,1,99 yrs from 10/01/2012,2014,HDB,518152,18,51,East Region,Pasir Ris
+PARK GREEN,"1,400,000","1,937.52",723,15 Apr 2020,8 RIVERVALE LINK #17-13,Resale,Strata,180,"7,778",-,Executive Condominium,1,99 yrs from 17/08/2001,2004,HDB,545043,19,54,North East Region,Sengkang
+CAIRNHILL NINE,"4,050,000","1,528.49","2,650",15 Apr 2020,9 CAIRNHILL ROAD #28-08,Resale,Strata,142,"28,521",-,Apartment,1,99 yrs from 12/05/2014,2016,Private,229723,09,22,Central Region,Orchard
+N.A.,"1,665,000","1,810.5",920,15 Apr 2020,14 PENAGA PLACE,Resale,Land,168.2,"9,899",-,Terrace House,1,99 yrs from 21/07/2008,2009,N.A,757329,27,75,North Region,Sembawang
+MEADOWS @ PEIRCE,"2,050,000","2,045.16","1,002",15 Apr 2020,632 UPPER THOMSON ROAD #14-82,Resale,Strata,190,"10,789",-,Condominium,1,Freehold,2012,N.A,787133,26,78,North East Region,Ang Mo Kio
+THE CLEMENT CANOPY,"1,980,000","1,345.5","1,472",15 Apr 2020,18 CLEMENTI AVENUE 1 #04-08,Sub Sale,Strata,125,"15,840",-,Apartment,1,99 yrs from 09/03/2016,2019,HDB,129961,05,12,West Region,Clementi
+SOMMERVILLE PARK,"3,500,000","1,948.28","1,796",15 Apr 2020,79 FARRER DRIVE #09-03,Resale,Strata,181,"19,337",-,Condominium,1,Freehold,1985,Private,259283,10,25,Central Region,Tanglin
+NUOVO,"1,060,000","1,280.92",828,15 Apr 2020,23 ANG MO KIO AVENUE 9 #13-09,Resale,Strata,119,"8,908",-,Executive Condominium,1,99 yrs from 02/05/2001,2004,HDB,569787,20,56,North East Region,Ang Mo Kio
+N.A.,"3,638,000","1,731.93","2,101",15 Apr 2020,10A SOMMERVILLE WALK,Resale,Land,160.9,"22,610",-,Terrace House,1,Freehold,2019,Private,357700,13,35,North East Region,Serangoon
+N.A.,"2,475,000","2,010.72","1,231",15 Apr 2020,160 LANGSAT ROAD,Resale,Land,186.8,"13,249",-,Terrace House,1,Freehold,-,Private,426785,15,42,Central Region,Geylang
+SKYPARK RESIDENCES,"920,000","1,140.98",806,15 Apr 2020,7 SEMBAWANG CRESCENT #02-14,Resale,Strata,106,"8,679",-,Executive Condominium,1,99 yrs from 18/03/2013,2016,Private,757096,27,75,North Region,Sembawang
+THE PANORAMA,"1,100,000",796.54,"1,381",15 Apr 2020,8 ANG MO KIO AVENUE 2 #13-04,Resale,Strata,74,"14,865",-,Condominium,1,99 yrs from 08/04/2013,2017,HDB,567695,20,56,North East Region,Ang Mo Kio
+PARKSHORE,"1,300,000",990.29,"1,313",15 Apr 2020,201 TANJONG RHU ROAD #10-07,Resale,Strata,92,"14,130",-,Condominium,1,Freehold,1995,Private,436917,15,43,Central Region,Kallang
+D'PAVILION,"1,400,000","1,420.85",985,15 Apr 2020,801 UPPER SERANGOON ROAD #02-05,Resale,Strata,132,"10,606",-,Apartment,1,Freehold,2010,Private,534671,19,53,North East Region,Hougang
+COMMONWEALTH TOWERS,"820,000",452.09,"1,814",15 Apr 2020,230 COMMONWEALTH AVENUE #12-02,Resale,Strata,42,"19,524",-,Condominium,1,99 yrs from 07/05/2013,2017,HDB,149739,03,14,Central Region,Queenstown
+SUNRISE VILLA,"2,900,000","2,594.12","1,118",15 Apr 2020,15 SUNRISE PLACE,Resale,Land,241,"12,033",-,Terrace House,1,Freehold,1993,Private,806421,28,80,North East Region,Ang Mo Kio
+THE RAINFOREST,"910,000",947.23,961,15 Apr 2020,343 CHOA CHU KANG AVENUE 3 #12-25,Resale,Strata,88,"10,341",-,Executive Condominium,1,99 yrs from 28/06/2011,2015,Private,689875,23,68,West Region,Choa Chu Kang
+ECO,"700,000",667.37,"1,049",15 Apr 2020,283 BEDOK SOUTH AVENUE 3 #01-51,Resale,Strata,62,"11,290",-,Condominium,1,99 yrs from 14/05/2012,2017,Private,465460,16,46,East Region,Bedok
+HEDGES PARK CONDOMINIUM,"765,000",764.24,"1,001",15 Apr 2020,73 FLORA DRIVE #07-10,Resale,Strata,71,"10,775",-,Condominium,1,99 yrs from 28/07/2010,2015,Private,506882,17,50,East Region,Pasir Ris
+AVENUE SOUTH RESIDENCE,"984,000",527.44,"1,866",15 Apr 2020,11 SILAT AVENUE #04-34,New Sale,Strata,49,"20,082",-,Apartment,1,99 yrs from 14/08/2018,Uncompleted,HDB,168877,03,16,Central Region,Bukit Merah
+DUNEARN ESTATE,"9,380,000","6,608.02","1,419",15 Apr 2020,4 KHEAM HOCK ROAD,Resale,Land,613.9,"15,279",-,Detached House,1,Freehold,-,Private,298777,11,29,Central Region,Novena
+NEWTON ONE,"2,425,000","1,216.33","1,994",16 Apr 2020,1 NEWTON ROAD #15-03,Resale,Strata,113,"21,460",-,Condominium,1,Freehold,2009,Private,307943,11,30,Central Region,Novena
+MUTIARA VIEW,"1,950,000","1,130.22","1,725",16 Apr 2020,11 JALAN MUTIARA #11-05,Resale,Strata,105,"18,571",-,Apartment,1,Freehold,2000,Private,249191,10,24,Central Region,Tanglin
+D'NEST,"560,000",484.38,"1,156",16 Apr 2020,135 PASIR RIS GROVE #06-30,Resale,Strata,45,"12,444",-,Condominium,1,99 yrs from 20/10/2010,2017,HDB,518132,18,51,East Region,Pasir Ris
+THE FLORENCE RESIDENCES,"1,019,000",667.37,"1,527",16 Apr 2020,83 HOUGANG AVENUE 2 #09-14,New Sale,Strata,62,"16,435",-,Apartment,1,99 yrs from 24/12/2018,Uncompleted,N.A,538860,19,53,North East Region,Hougang
+TREASURE AT TAMPINES,"930,000",656.6,"1,416",16 Apr 2020,27 TAMPINES LANE #05-94,New Sale,Strata,61,"15,246",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,N.A,528472,18,52,East Region,Tampines
+LUXUS HILLS,"3,408,000","1,614.6","2,111",16 Apr 2020,23 LUXUS HILL VIEW,Resale,Land,150,"22,720",-,Terrace House,1,999 yrs from 01/01/1879,2020,HDB,804515,28,80,North East Region,Serangoon
+MONTVIEW,"1,900,000","1,227.1","1,548",16 Apr 2020,63 MOUNT SINAI DRIVE #08-04,Resale,Strata,114,"16,667",-,Condominium,1,Freehold,2008,Private,277116,10,27,Central Region,Bukit Timah
+HILLVIEW REGENCY,"785,000",904.18,868,16 Apr 2020,26 BUKIT BATOK EAST AVENUE 2 #06-07,Resale,Strata,84,"9,345",-,Condominium,1,99 yrs from 20/06/2000,2005,HDB,659920,23,65,West Region,Bukit Batok
+LIVIA,"950,000","1,323.97",718,16 Apr 2020,73 PASIR RIS GROVE #02-26,Resale,Strata,123,"7,724",-,Condominium,1,99 yrs from 07/01/2008,2011,HDB,518206,18,51,East Region,Pasir Ris
+BLUE HORIZON,"1,230,000","1,151.75","1,068",16 Apr 2020,25 WEST COAST CRESCENT #17-14,Resale,Strata,107,"11,495",-,Condominium,1,99 yrs from 14/08/2000,2005,Private,128047,05,12,West Region,Clementi
+HILLCREST VILLA,"2,920,000","3,078.5",949,16 Apr 2020,17K HILLCREST ROAD,Resale,Strata,286,"10,210",-,Terrace House,1,99 yrs from 03/08/2006,2009,Private,286780,11,28,Central Region,Bukit Timah
+PEBBLE BAY,"2,838,000","1,894.46","1,498",16 Apr 2020,130 TANJONG RHU ROAD #05-12,Resale,Strata,176,"16,125",-,Condominium,1,99 yrs from 09/03/1994,1997,Private,436918,15,43,Central Region,Kallang
+HEDGES PARK CONDOMINIUM,"880,000","1,011.82",870,16 Apr 2020,89 FLORA DRIVE #03-63,Resale,Strata,94,"9,362",-,Condominium,1,99 yrs from 28/07/2010,2015,Private,506890,17,50,East Region,Pasir Ris
+TERRENE AT BUKIT TIMAH,"2,500,000","1,840.64","1,358",16 Apr 2020,125 JALAN JURONG KECHIL #01-29,Resale,Strata,171,"14,620",-,Condominium,1,999 yrs from 19/06/1885,2013,Private,598681,21,59,Central Region,Bukit Timah
+JADESCAPE,"944,000",527.44,"1,790",16 Apr 2020,4 SHUNFU ROAD #19-15,New Sale,Strata,49,"19,265",-,Condominium,1,99 yrs from 19/06/2018,Uncompleted,HDB,575743,20,57,Central Region,Bishan
+MARGARET VILLE,"2,006,354","1,184.04","1,694",16 Apr 2020,20 MARGARET DRIVE #05-08,New Sale,Strata,110,"18,240",-,Apartment,1,99 yrs from 13/03/2017,Uncompleted,N.A,149312,03,14,Central Region,Queenstown
+ELIAS GREEN,"1,050,888","1,550.02",678,16 Apr 2020,3 ELIAS GREEN #03-05,Resale,Strata,144,"7,298",-,Condominium,1,99 yrs from 23/07/1991,1994,HDB,519960,18,51,East Region,Pasir Ris
+RESIDENCE TWENTY-TWO,"1,405,152",861.12,"1,632",16 Apr 2020,246 TELOK KURAU ROAD #01-02,New Sale,Strata,80,"17,564",-,Apartment,1,Freehold,Uncompleted,HDB,423844,15,42,East Region,Bedok
+LA FIESTA,"1,260,000","1,001.05","1,259",16 Apr 2020,66 SENGKANG SQUARE #12-37,Resale,Strata,93,"13,548",-,Condominium,1,99 yrs from 03/09/2012,2016,Private,544703,19,54,North East Region,Sengkang
+THE RIVERVALE,"985,000","1,302.44",756,16 Apr 2020,3 RIVERVALE LINK #10-17,Resale,Strata,121,"8,140",-,Executive Condominium,1,99 yrs from 18/12/1997,2000,HDB,545119,19,54,North East Region,Sengkang
+JLB RESIDENCES,"950,000","1,001.05",949,16 Apr 2020,169 JALAN LOYANG BESAR #03-03,Resale,Strata,93,"10,215",-,Apartment,1,946 yrs from 27/11/1937,2008,HDB,509422,17,50,East Region,Pasir Ris
+N.A.,"2,500,000","2,012.87","1,242",17 Apr 2020,31 MAYFLOWER LANE,Resale,Land,187,"13,369",-,Terrace House,1,Freehold,-,Private,568761,20,56,North East Region,Ang Mo Kio
+BURGHLEY DRIVE,"3,480,000","1,733","2,008",17 Apr 2020,2R BURGHLEY DRIVE,New Sale,Land,161,"21,615",-,Terrace House,1,Freehold,Uncompleted,N.A,554296,19,55,North East Region,Serangoon
+MIDTOWN BAY,"2,066,400",753.48,"2,695",17 Apr 2020,122 BEACH ROAD #11-10,New Sale,Strata,70,"29,006","2,030,400",Apartment,1,99 yrs from 02/01/2018,Uncompleted,Private,189770,07,18,Central Region,Downtown Core
+MARINA ONE RESIDENCES,"1,673,000",710.42,"2,355",17 Apr 2020,23 MARINA WAY #21-20,Resale,Strata,66,"25,348",-,Apartment,1,99 yrs from 01/07/2011,2017,Private,018979,01,01,Central Region,Downtown Core
+THE MADEIRA,"1,000,000","1,356.26",737,17 Apr 2020,52 BUKIT BATOK STREET 31 #16-11,Resale,Strata,126,"7,937",-,Condominium,1,99 yrs from 14/08/2000,2003,HDB,659443,23,65,West Region,Bukit Batok
+WHITEWATER,"840,000","1,140.98",736,17 Apr 2020,31 PASIR RIS STREET 72 #02-24,Resale,Strata,106,"7,925",-,Executive Condominium,1,99 yrs from 23/07/2002,2005,Private,518769,18,51,East Region,Pasir Ris
+WATERCOLOURS,"838,000",958,875,17 Apr 2020,29 PASIR RIS LINK #10-20,Resale,Strata,89,"9,416",-,Executive Condominium,1,99 yrs from 10/01/2012,2014,HDB,518152,18,51,East Region,Pasir Ris
+OLA,"1,407,000","1,388.56","1,013",17 Apr 2020,76 ANCHORVALE CRESCENT #04-16,New Sale,Strata,129,"10,907",-,Executive Condominium,1,99 yrs from 14/12/2018,Uncompleted,HDB,544602,19,54,North East Region,Sengkang
+THE TAMPINES TRILLIANT,"1,120,000","1,130.22",991,17 Apr 2020,15 TAMPINES CENTRAL 7 #10-11,Resale,Strata,105,"10,667",-,Executive Condominium,1,99 yrs from 13/07/2011,2015,Private,528771,18,52,East Region,Tampines
+MARTIN MODERN,"2,900,000","1,399.32","2,072",17 Apr 2020,10 MARTIN PLACE #15-08,Sub Sale,Strata,130,"22,308",-,Condominium,1,99 yrs from 28/09/2016,Uncompleted,Private,237963,09,23,Central Region,River Valley
+STIRLING RESIDENCES,"1,522,000",785.77,"1,937",17 Apr 2020,25 STIRLING ROAD #33-32,New Sale,Strata,73,"20,849",-,Apartment,1,99 yrs from 18/08/2017,Uncompleted,Private,148962,03,14,Central Region,Queenstown
+LUXUS HILLS,"3,408,000","1,614.6","2,111",17 Apr 2020,12 LUXUS HILL VIEW,Resale,Land,150,"22,720",-,Terrace House,1,999 yrs from 01/01/1879,2020,Private,804495,28,80,North East Region,Serangoon
+THE WOODS,"2,050,000","5,511.17",372,17 Apr 2020,107 WESTWOOD AVENUE,Resale,Strata,512,"4,004",-,Semi-Detached House,1,99 yrs from 09/03/2010,2013,HDB,648205,22,64,West Region,Jurong West
+SCOTTS SQUARE,"3,400,000",947.23,"3,589",17 Apr 2020,8 SCOTTS ROAD #27-05,Resale,Strata,88,"38,636",-,Apartment,1,Freehold,2011,N.A,228238,09,22,Central Region,Orchard
+VIBES @ EAST COAST,"810,000",624.31,"1,297",17 Apr 2020,308 TELOK KURAU ROAD #05-19,Resale,Strata,58,"13,966",-,Apartment,1,Freehold,2014,HDB,423858,15,42,East Region,Bedok
+HILLION RESIDENCES,"1,035,000",710.42,"1,457",17 Apr 2020,8 JELEBU ROAD #15-08,Resale,Strata,66,"15,682",-,Apartment,1,99 yrs from 04/01/2013,2017,HDB,677671,23,67,West Region,Bukit Panjang
+THE GARDENS AT BISHAN,"1,460,000","1,205.57","1,211",17 Apr 2020,1 SIN MING WALK #05-38,Resale,Strata,112,"13,036",-,Condominium,1,99 yrs from 22/03/1997,2004,Private,575574,20,57,Central Region,Bishan
+THE RAINTREE,"1,500,000","1,334.74","1,124",17 Apr 2020,89 BUKIT DRIVE #10-20,Resale,Strata,124,"12,097",-,Condominium,1,99 yrs from 01/03/2003,2008,Private,587846,21,58,West Region,Bukit Panjang
+HILLION RESIDENCES,"1,040,000",710.42,"1,464",17 Apr 2020,12 JELEBU ROAD #18-26,Resale,Strata,66,"15,758",-,Apartment,1,99 yrs from 04/01/2013,2017,Private,677673,23,67,West Region,Bukit Panjang
+EIGHT RIVERSUITES,"1,138,000",839.59,"1,355",17 Apr 2020,10 WHAMPOA EAST #06-27,Resale,Strata,78,"14,590",-,Condominium,1,99 yrs from 11/07/2011,2016,HDB,338521,12,33,Central Region,Kallang
+HAIG APARTMENTS,"928,000",850.36,"1,091",17 Apr 2020,185 HAIG ROAD #03-01,Resale,Strata,79,"11,747",-,Apartment,1,Freehold,1991,HDB,438782,15,43,Central Region,Marine Parade
+RIVERFRONT RESIDENCES,"689,000",581.26,"1,185",17 Apr 2020,47 HOUGANG AVENUE 7 #17-36,New Sale,Strata,54,"12,759",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,N.A,533816,19,53,North East Region,Hougang
+THOMSON 800,"1,918,000","1,420.85","1,350",17 Apr 2020,802 THOMSON ROAD #05-05,Resale,Strata,132,"14,530",-,Condominium,1,Freehold,1999,Private,298187,11,29,Central Region,Toa Payoh
+RIVERPARC RESIDENCE,"930,000","1,076.4",864,17 Apr 2020,102 PUNGGOL DRIVE #07-28,Resale,Strata,100,"9,300",-,Executive Condominium,1,99 yrs from 27/12/2010,2014,HDB,828800,19,82,North East Region,Punggol
+HILLION RESIDENCES,"2,700,000","2,615.65","1,032",17 Apr 2020,10 JELEBU ROAD #22-15,Resale,Strata,243,"11,111",-,Apartment,1,99 yrs from 04/01/2013,2017,Private,677672,23,67,West Region,Bukit Panjang
+REZI 24,"837,300",505.91,"1,655",17 Apr 2020,39 LORONG 24 GEYLANG #06-19,New Sale,Strata,47,"17,815",-,Apartment,1,Freehold,Uncompleted,Private,398636,14,39,Central Region,Geylang
+WINDSOR PARK ESTATE,"21,680,000","21,092.06","1,028",17 Apr 2020,53 WINDSOR PARK ROAD,Resale,Land,"1,959.5","11,064",-,Detached House,1,Freehold,-,N.A,574156,20,57,Central Region,Bishan
+YISHUN SAPPHIRE,"835,000","1,184.04",705,17 Apr 2020,46 CANBERRA DRIVE #09-12,Resale,Strata,110,"7,591",-,Condominium,1,99 yrs from 16/02/1998,2001,HDB,768436,27,76,North Region,Yishun
+OASIS @ ELIAS,"788,000",979.52,804,17 Apr 2020,62 ELIAS ROAD #15-07,Resale,Strata,91,"8,659",-,Condominium,1,99 yrs from 17/03/2008,2011,HDB,519939,18,51,East Region,Pasir Ris
+TREASURE AT TAMPINES,"961,000",678.13,"1,417",18 Apr 2020,47 TAMPINES LANE #05-157,New Sale,Strata,63,"15,254",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,Private,528462,18,52,East Region,Tampines
+TREASURE AT TAMPINES,"1,131,000",914.94,"1,236",18 Apr 2020,49 TAMPINES LANE #03-167,New Sale,Strata,85,"13,306",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,N.A,528461,18,52,East Region,Tampines
+JADESCAPE,"961,000",527.44,"1,822",18 Apr 2020,4 SHUNFU ROAD #23-15,New Sale,Strata,49,"19,612",-,Condominium,1,99 yrs from 19/06/2018,Uncompleted,Private,575743,20,57,Central Region,Bishan
+THE GARDEN RESIDENCES,"1,470,000",904.18,"1,626",18 Apr 2020,9 SERANGOON NORTH VIEW #11-38,New Sale,Strata,84,"17,500",-,Apartment,1,99 yrs from 30/10/2017,Uncompleted,Private,554347,19,55,North East Region,Serangoon
+PARC ESTA,"1,232,000",742.72,"1,659",18 Apr 2020,902 SIMS AVENUE #02-11,New Sale,Strata,69,"17,855",-,Apartment,1,99 yrs from 12/07/2018,Uncompleted,Private,408967,14,40,Central Region,Geylang
+PARC ESTA,"1,610,000",958,"1,681",19 Apr 2020,900 SIMS AVENUE #13-08,New Sale,Strata,89,"18,090",-,Apartment,1,99 yrs from 12/07/2018,Uncompleted,HDB,408966,14,40,Central Region,Geylang
+N.A.,"3,800,000","4,035.42",942,20 Apr 2020,1D JUBILEE ROAD,Resale,Land,374.9,"10,136",-,Terrace House,1,Freehold,1982,HDB,128522,05,12,West Region,Clementi
+THE PALETTE,"876,000",968.76,904,20 Apr 2020,111 PASIR RIS GROVE #01-27,Resale,Strata,90,"9,733",-,Condominium,1,99 yrs from 20/10/2010,2015,Private,518170,18,51,East Region,Pasir Ris
+STIRLING RESIDENCES,"1,201,000",624.31,"1,924",20 Apr 2020,21 STIRLING ROAD #32-04,New Sale,Strata,58,"20,707",-,Apartment,1,99 yrs from 18/08/2017,Uncompleted,N.A,148960,03,14,Central Region,Queenstown
+BOATHOUSE RESIDENCES,"985,000","1,076.4",915,20 Apr 2020,33 UPPER SERANGOON VIEW #01-24,Resale,Strata,100,"9,850",-,Condominium,1,99 yrs from 09/02/2011,2015,N.A,534042,19,53,North East Region,Hougang
+MARINA ONE RESIDENCES,"1,736,222",753.48,"2,304",20 Apr 2020,23 MARINA WAY #28-30,Resale,Strata,70,"24,803",-,Apartment,1,99 yrs from 01/07/2011,2017,Private,018979,01,01,Central Region,Downtown Core
+DEDAP GARDENS,"4,850,000","4,557.48","1,064",20 Apr 2020,11 DEDAP PLACE,Resale,Land,423.4,"11,455",-,Semi-Detached House,1,999 yrs from 01/01/1879,1991,Private,809510,28,80,North East Region,Serangoon
+SUMMERDALE,"970,000","1,399.32",693,20 Apr 2020,10 BOON LAY DRIVE #04-28,Resale,Strata,130,"7,462",-,Executive Condominium,1,99 yrs from 22/09/1997,2000,HDB,649929,22,64,West Region,Jurong West
+MIDTOWN RESIDENCES,"650,000",441.32,"1,473",20 Apr 2020,1189 UPPER SERANGOON ROAD #06-17,Resale,Strata,41,"15,854",-,Apartment,1,99 yrs from 24/01/2013,2016,HDB,534785,19,53,North East Region,Hougang
+PARC VERA,"1,100,000","1,140.98",964,20 Apr 2020,10 HOUGANG STREET 32 #15-24,Resale,Strata,106,"10,377",-,Condominium,1,99 yrs from 20/12/2010,2014,HDB,534037,19,53,North East Region,Hougang
+THE MILTONIA RESIDENCES,"680,000",839.59,810,20 Apr 2020,534 MILTONIA CLOSE #03-36,Resale,Strata,78,"8,718",-,Condominium,1,99 yrs from 30/11/2010,2014,Private,768111,27,76,North Region,Yishun
+THOMSON IMPRESSIONS,"765,000",462.85,"1,653",20 Apr 2020,3 LORONG PUNTONG #17-10,Resale,Strata,43,"17,791",-,Apartment,1,99 yrs from 12/01/2015,2018,Private,576444,20,57,Central Region,Bishan
+THE SAIL @ MARINA BAY,"1,080,000",667.37,"1,618",20 Apr 2020,2 MARINA BOULEVARD #35-11,Resale,Strata,62,"17,419",-,Apartment,1,99 yrs from 12/08/2002,2008,HDB,018987,01,01,Central Region,Downtown Core
+THE BENCOOLEN,"1,150,000",958,"1,200",20 Apr 2020,180A BENCOOLEN STREET #09-06,Resale,Strata,89,"12,921",-,Apartment,1,99 yrs from 24/06/1995,1999,Private,189647,07,18,Central Region,Rochor
+WOODGROVE ESTATE,"1,880,000","2,623.19",717,20 Apr 2020,42 CEDARWOOD GROVE,Resale,Land,243.7,"7,714",-,Terrace House,1,99 yrs from 01/09/1993,1996,Private,738410,25,73,North Region,Woodlands
+VERDURE,"1,830,000","1,065.64","1,717",20 Apr 2020,63 HOLLAND ROAD #02-12,Resale,Strata,99,"18,485",-,Condominium,1,Freehold,2012,Private,258887,10,25,Central Region,Tanglin
+TRILIGHT,"2,300,000","1,162.51","1,978",20 Apr 2020,7 NEWTON ROAD #28-05,Resale,Strata,108,"21,296",-,Condominium,1,Freehold,2012,HDB,307945,11,30,Central Region,Novena
+VALLEY PARK,"2,750,000","1,700.71","1,617",21 Apr 2020,475 RIVER VALLEY ROAD #18-03,Resale,Strata,158,"17,405",-,Condominium,1,999 yrs from 21/06/1877,1997,Private,248360,10,24,Central Region,Tanglin
+MAYFAIR MODERN,"978,000",516.67,"1,893",21 Apr 2020,6 RIFLE RANGE ROAD #05-19,New Sale,Strata,48,"20,375",-,Condominium,1,99 yrs from 18/09/2018,Uncompleted,HDB,588375,21,58,Central Region,Bukit Timah
+THE SIERRA,"1,050,000",667.37,"1,573",21 Apr 2020,80 MOUNT SINAI DRIVE #11-05,Resale,Strata,62,"16,935",-,Apartment,1,947 yrs from 15/05/1937,1998,Private,277125,10,27,Central Region,Bukit Timah
+KOPAR AT NEWTON,"1,222,000",516.67,"2,365",21 Apr 2020,6 MAKEWAY AVENUE #08-05,New Sale,Strata,48,"25,458",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+ARTRA,"2,105,900","1,044.11","2,017",21 Apr 2020,10 ALEXANDRA VIEW #40-10,New Sale,Strata,97,"21,710",-,Apartment,1,99 yrs from 15/02/2016,Uncompleted,N.A,158745,03,15,Central Region,Bukit Merah
+AUSTVILLE RESIDENCES,"930,000","1,022.58",909,21 Apr 2020,21 SENGKANG EAST AVENUE #08-25,Resale,Strata,95,"9,789",-,Executive Condominium,1,99 yrs from 24/08/2010,2014,HDB,544809,19,54,North East Region,Sengkang
+MIDTOWN RESIDENCES,"861,168",688.9,"1,250",21 Apr 2020,1189 UPPER SERANGOON ROAD #06-18,Resale,Strata,64,"13,456",-,Apartment,1,99 yrs from 24/01/2013,2016,Private,534785,19,53,North East Region,Hougang
+WATERCOLOURS,"1,000,000","1,334.74",749,21 Apr 2020,27 PASIR RIS LINK #02-16,Resale,Strata,124,"8,065",-,Executive Condominium,1,99 yrs from 10/01/2012,2014,HDB,518151,18,51,East Region,Pasir Ris
+N.A.,"1,350,000","1,237.86","1,091",21 Apr 2020,12 SIMON LANE,Resale,Strata,115,"11,739",-,Terrace House,1,Freehold,1995,Private,546032,19,54,North East Region,Hougang
+OPERA ESTATE,"3,540,000","1,740.54","2,034",21 Apr 2020,22 METROPOLE DRIVE,Resale,Land,161.7,"21,892",-,Terrace House,1,Freehold,-,Private,456699,15,45,East Region,Bedok
+PATERSON LINC,"1,750,000",818.06,"2,139",21 Apr 2020,20 PATERSON ROAD #08-04,Resale,Strata,76,"23,026",-,Apartment,1,Freehold,2010,N.A,238509,09,23,Central Region,River Valley
+LINCOLN SUITES,"4,500,000","2,723.29","1,652",21 Apr 2020,1 KHIANG GUAN AVENUE #27-02,Resale,Strata,253,"17,787",-,Condominium,1,Freehold,2014,Private,308380,11,30,Central Region,Novena
+CORAL PARK,"4,250,000","3,639.31","1,168",21 Apr 2020,77 JALAN PEMIMPIN,Resale,Land,338.1,"12,570",-,Semi-Detached House,1,Freehold,1980,Private,577228,20,57,Central Region,Bishan
+NEPTUNE COURT,"1,580,000","1,636.13",966,21 Apr 2020,1 MARINE VISTA #19-83,Resale,Strata,152,"10,395",-,Apartment,1,99 yrs from 01/11/1975,1975,Private,449025,15,44,East Region,Bedok
+MERAPRIME,"1,550,000","1,097.93","1,412",21 Apr 2020,301 JALAN BUKIT HO SWEE #23-06,Resale,Strata,102,"15,196",-,Condominium,1,99 yrs from 20/06/2003,2006,HDB,169568,03,16,Central Region,Bukit Merah
+BLOSSOM RESIDENCES,"900,000",968.76,929,21 Apr 2020,30 SEGAR ROAD #15-09,Resale,Strata,90,"10,000",-,Executive Condominium,1,99 yrs from 02/03/2011,2014,HDB,677721,23,67,West Region,Bukit Panjang
+THE ARCADIA,"3,680,000","3,821.22",963,21 Apr 2020,237 ARCADIA ROAD #02-04,Resale,Strata,355,"10,366",-,Condominium,1,99 yrs from 17/08/1979,1983,Private,289844,11,28,Central Region,Bukit Timah
+HIGH PARK RESIDENCES,"600,000",484.38,"1,239",21 Apr 2020,25 FERNVALE ROAD #02-20,Resale,Strata,45,"13,333",-,Apartment,1,99 yrs from 05/11/2014,2019,HDB,797639,28,79,North East Region,Sengkang
+RIVERSOUND RESIDENCE,"958,000","1,065.64",899,21 Apr 2020,9A SENGKANG EAST AVENUE #04-33,Resale,Strata,99,"9,677",-,Condominium,1,99 yrs from 26/08/2011,2015,Private,544743,19,54,North East Region,Sengkang
+MARINA ONE RESIDENCES,"1,608,503",731.95,"2,198",22 Apr 2020,23 MARINA WAY #05-23,Resale,Strata,68,"23,654",-,Apartment,1,99 yrs from 01/07/2011,2017,Private,018979,01,01,Central Region,Downtown Core
+KENT RIDGE HILL RESIDENCES,"947,000",645.84,"1,466",22 Apr 2020,50A SOUTH BUONA VISTA ROAD #05-11,New Sale,Strata,60,"15,783",-,Apartment,1,99 yrs from 10/11/2018,Uncompleted,N.A,118179,05,11,Central Region,Queenstown
+TREASURE AT TAMPINES,"703,000",462.85,"1,519",22 Apr 2020,39 TAMPINES LANE #12-125,New Sale,Strata,43,"16,349",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,HDB,528466,18,52,East Region,Tampines
+THE ORCHARD RESIDENCES,"5,750,000","2,174.33","2,644",22 Apr 2020,238 ORCHARD BOULEVARD #40-08,Resale,Strata,202,"28,465",-,Apartment,1,99 yrs from 13/03/2006,2010,Private,237973,09,23,Central Region,Orchard
+PARC CLEMATIS,"1,690,000","1,044.11","1,619",22 Apr 2020,8C JALAN LEMPENG #06-39,New Sale,Strata,97,"17,423",-,Apartment,1,99 yrs from 08/08/2019,Uncompleted,N.A,128825,05,12,West Region,Clementi
+N.A.,"3,780,000","1,838.49","2,056",22 Apr 2020,342 ONAN ROAD,Resale,Land,170.8,"22,131",-,Terrace House,1,Freehold,-,HDB,424734,15,42,Central Region,Marine Parade
+KERRISDALE,"1,700,000","1,485.43","1,144",22 Apr 2020,36 STURDEE ROAD #18-13,Resale,Strata,138,"12,319",-,Condominium,1,99 yrs from 02/04/1998,2005,Private,207855,08,20,Central Region,Kallang
+SHAN GATE APARTMENTS,"1,368,000","1,248.62","1,096",22 Apr 2020,2 SHAN ROAD #10-03,Resale,Strata,116,"11,793",-,Apartment,1,Freehold,1991,Private,328103,12,32,Central Region,Novena
+REGENTVILLE,"820,000","1,076.4",762,22 Apr 2020,10 HOUGANG STREET 92 #06-02,Resale,Strata,100,"8,200",-,Apartment,1,99 yrs from 24/04/1996,1999,HDB,538687,19,53,North East Region,Hougang
+NAUNG RESIDENCE,"728,000",538.2,"1,353",22 Apr 2020,1 JALAN NAUNG #04-03,Resale,Strata,50,"14,560",-,Apartment,1,999 yrs from 19/02/1883,2015,HDB,537670,19,53,North East Region,Hougang
+N.A.,"2,580,000","1,661.96","1,552",22 Apr 2020,102 JOO CHIAT AVENUE,Resale,Land,154.4,"16,710",-,Terrace House,1,Freehold,1964,HDB,428205,15,42,East Region,Bedok
+MARINA ONE RESIDENCES,"1,642,113",742.72,"2,211",22 Apr 2020,23 MARINA WAY #14-20,Resale,Strata,69,"23,799",-,Apartment,1,99 yrs from 01/07/2011,2017,Private,018979,01,01,Central Region,Downtown Core
+THE ORCHARD RESIDENCES,"5,750,000","2,174.33","2,644",22 Apr 2020,238 ORCHARD BOULEVARD #42-08,Resale,Strata,202,"28,465",-,Apartment,1,99 yrs from 13/03/2006,2010,Private,237973,09,23,Central Region,Orchard
+N.A.,"7,010,000","2,983.78","2,349",22 Apr 2020,18A GREENVIEW CRESCENT,Resale,Land,277.2,"25,289",-,Semi-Detached House,1,Freehold,2019,Private,289345,11,28,Central Region,Bukit Timah
+TREASURE AT TAMPINES,"833,000",592.02,"1,407",23 Apr 2020,3 TAMPINES LANE #09-13,New Sale,Strata,55,"15,145",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,HDB,528483,18,52,East Region,Tampines
+HILLCREST ARCADIA,"1,040,000",914.94,"1,137",23 Apr 2020,257 ARCADIA ROAD #01-03,Resale,Strata,85,"12,235",-,Condominium,1,99 yrs from 01/12/1975,1980,HDB,289851,11,28,Central Region,Bukit Timah
+THE TAPESTRY,"686,340",441.32,"1,555",23 Apr 2020,61 TAMPINES STREET 86 #13-45,New Sale,Strata,41,"16,740",-,Condominium,1,99 yrs from 31/07/2017,Uncompleted,N.A,528510,18,52,East Region,Tampines
+FOUR SEASONS PARK,"7,850,000","2,873.99","2,731",23 Apr 2020,8 CUSCADEN WALK #09-02,Resale,Strata,267,"29,401",-,Condominium,1,Freehold,1994,Private,249692,10,24,Central Region,River Valley
+VERSILIA ON HAIG,"1,900,000","1,313.21","1,447",23 Apr 2020,33 IPOH LANE #04-08,Resale,Strata,122,"15,574",-,Condominium,1,Freehold,2010,HDB,438641,15,43,Central Region,Geylang
+STRATFORD COURT,"1,200,000","1,872.94",641,23 Apr 2020,41A BEDOK RIA CRESCENT #04-39,Resale,Strata,174,"6,897",-,Condominium,1,99 yrs from 23/06/1995,1998,HDB,489929,16,48,East Region,Bedok
+THE SEAFRONT ON MEYER,"3,350,000","1,603.84","2,089",23 Apr 2020,59 MEYER ROAD #21-11,Resale,Strata,149,"22,483",-,Condominium,1,Freehold,2010,Private,437880,15,43,Central Region,Marine Parade
+RIVERVALE CREST,"860,000","1,184.04",726,23 Apr 2020,7 RIVERVALE CRESCENT #12-14,Resale,Strata,110,"7,818",-,Apartment,1,99 yrs from 06/12/1997,2002,Private,545085,19,54,North East Region,Sengkang
+FABER CREST,"1,120,000","1,248.62",897,23 Apr 2020,50F FABER HEIGHTS #04-35,Resale,Strata,116,"9,655",-,Condominium,1,99 yrs from 12/06/1996,2001,Private,129200,05,12,West Region,Clementi
+AVILA GARDENS,"1,500,000","1,754.53",855,23 Apr 2020,11 FLORA ROAD #03-03,Resale,Strata,163,"9,202",-,Condominium,1,Freehold,1995,Private,509732,17,50,East Region,Pasir Ris
+LUXUS HILLS,"3,328,000","1,614.6","2,061",23 Apr 2020,10 LUXUS HILL VIEW,Resale,Land,150,"22,187",-,Terrace House,1,999 yrs from 01/01/1879,2020,Private,804494,28,80,North East Region,Serangoon
+PARC SOMME,"570,000",355.21,"1,605",23 Apr 2020,62 SOMME ROAD #06-02,Resale,Strata,33,"17,273",-,Apartment,1,99 yrs from 06/05/2008,2012,Private,207877,08,20,Central Region,Kallang
+PARC SOMME,"518,000",344.45,"1,504",24 Apr 2020,62 SOMME ROAD #03-05,Resale,Strata,32,"16,188",-,Apartment,1,99 yrs from 06/05/2008,2012,HDB,207877,08,20,Central Region,Kallang
+SENNETT ESTATE,"3,900,000","2,425.13","1,608",24 Apr 2020,6 PUAY HEE AVENUE,Resale,Land,225.3,"17,310",-,Semi-Detached House,1,Freehold,2009,Private,348108,13,34,Central Region,Toa Payoh
+RIVERSAILS,"1,150,000","1,065.64","1,079",24 Apr 2020,18 UPPER SERANGOON CRESCENT #13-47,Resale,Strata,99,"11,616",-,Condominium,1,99 yrs from 07/12/2011,2016,Private,534027,19,53,North East Region,Hougang
+THE CENTRIS,"1,370,000","1,237.86","1,107",24 Apr 2020,79 JURONG WEST CENTRAL 3 #08-33,Resale,Strata,115,"11,913",-,Apartment,1,99 yrs from 21/06/2006,2009,Private,648339,22,64,West Region,Jurong West
+KENT RIDGE HILL RESIDENCES,"1,000,000",613.55,"1,630",24 Apr 2020,68 SOUTH BUONA VISTA ROAD #01-84,New Sale,Strata,57,"17,544",-,Apartment,1,99 yrs from 10/11/2018,Uncompleted,N.A,117328,05,11,Central Region,Queenstown
+ARDMORE PARK,"27,650,000","8,740.37","3,163",24 Apr 2020,15 ARDMORE PARK #29-03,Resale,Strata,812,"34,052",-,Condominium,1,Freehold,2001,Private,259959,10,25,Central Region,Newton
+LAGUNA 88,"1,400,000","2,088.22",670,24 Apr 2020,46 EASTWOOD ROAD #04-07,Resale,Strata,194,"7,216",-,Condominium,1,99 yrs from 06/11/1995,2000,N.A,486356,16,48,East Region,Bedok
+KOPAR AT NEWTON,"2,300,000","1,054.87","2,180",24 Apr 2020,6 MAKEWAY AVENUE #07-07,New Sale,Strata,98,"23,469",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+RAFFLESIA CONDOMINIUM,"1,050,000",914.94,"1,148",24 Apr 2020,33 BISHAN STREET 21 #18-12,Resale,Strata,85,"12,353",-,Condominium,1,99 yrs from 18/07/1997,2003,Private,579801,20,57,Central Region,Bishan
+THE FLORENCE RESIDENCES,"1,031,000",721.19,"1,430",24 Apr 2020,81 HOUGANG AVENUE 2 #03-03,New Sale,Strata,67,"15,388",-,Apartment,1,99 yrs from 24/12/2018,Uncompleted,N.A,538859,19,53,North East Region,Hougang
+ROSEWOOD SUITES,"1,155,000","1,517.72",761,24 Apr 2020,63 ROSEWOOD DRIVE #03-20,Resale,Strata,141,"8,191",-,Condominium,1,99 yrs from 25/02/2008,2011,Private,737874,25,73,North Region,Woodlands
+WATERCOLOURS,"675,000",742.72,909,24 Apr 2020,21 PASIR RIS LINK #04-05,Resale,Strata,69,"9,783",-,Executive Condominium,1,99 yrs from 10/01/2012,2014,Private,518168,18,51,East Region,Pasir Ris
+THE AMBIENCE,"2,200,000","3,670.52",599,24 Apr 2020,221G PONGGOL SEVENTEENTH AVENUE,Resale,Strata,341,"6,452",-,Detached House,1,999 yrs from 01/05/1874,2009,HDB,829753,19,82,North East Region,Punggol
+LAKEHOLMZ,"1,260,000","1,506.96",836,24 Apr 2020,80 CORPORATION ROAD #10-01,Resale,Strata,140,"9,000",-,Condominium,1,99 yrs from 29/10/2001,2005,HDB,649819,22,64,West Region,Jurong West
+WATERCOLOURS,"735,000",914.94,803,24 Apr 2020,27 PASIR RIS LINK #04-15,Resale,Strata,85,"8,647",-,Executive Condominium,1,99 yrs from 10/01/2012,2014,Private,518151,18,51,East Region,Pasir Ris
+WATERTOWN,"1,638,000","1,119.46","1,463",24 Apr 2020,65 PUNGGOL CENTRAL #04-09,Resale,Strata,104,"15,750",-,Apartment,1,99 yrs from 18/05/2011,2017,HDB,828842,19,82,North East Region,Punggol
+ALANA,"2,238,542","2,755.58",812,24 Apr 2020,146 SUNRISE TERRACE,Resale,Strata,256,"8,744",-,Terrace House,1,103 yrs from 12/08/2013,2018,HDB,804550,28,80,North East Region,Ang Mo Kio
+FOREST HILLS CONDOMINIUM,"970,000","1,367.03",710,24 Apr 2020,31 TRANSIT ROAD #01-24,Resale,Strata,127,"7,638",-,Condominium,1,99 yrs from 10/02/2000,2003,HDB,778893,26,77,North Region,Yishun
+WOLSKEL LODGE,"1,850,000","2,508.01",738,24 Apr 2020,97 WOLSKEL ROAD,Resale,Strata,233,"7,940",-,Terrace House,1,Freehold,1997,HDB,357991,13,35,North East Region,Serangoon
+SELETAR HILLS ESTATE,"5,000,000","3,579.03","1,397",24 Apr 2020,65 JALAN REDOP,Resale,Land,332.5,"15,038",-,Semi-Detached House,1,999 yrs from 01/01/1879,-,Private,808611,28,80,North East Region,Serangoon
+KOPAR AT NEWTON,"1,447,000",613.55,"2,358",24 Apr 2020,8 MAKEWAY AVENUE #08-09,New Sale,Strata,57,"25,386",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,HDB,228607,09,22,Central Region,Novena
+CLEMENTI PARK,"8,900,000","6,764.1","1,316",24 Apr 2020,33 SUNSET VIEW,Resale,Land,628.4,"14,163",-,Detached House,1,Freehold,-,Private,597195,21,59,West Region,Clementi
+DUNMAN GARDEN,"3,210,000","2,237.84","1,434",24 Apr 2020,6B SWANAGE ROAD,Resale,Land,207.9,"15,440",-,Terrace House,1,Freehold,1970,Private,437191,15,43,Central Region,Marine Parade
+THE SPECTRUM,"915,000",796.54,"1,149",24 Apr 2020,501 PASIR PANJANG ROAD #04-02,Resale,Strata,74,"12,365",-,Condominium,1,Freehold,2005,Private,117506,05,11,Central Region,Queenstown
+THE PRINCETON,"1,220,088",861.12,"1,417",24 Apr 2020,2 EWE BOON ROAD #17-01,Resale,Strata,80,"15,251",-,Apartment,1,Freehold,1999,HDB,259313,10,25,Central Region,Tanglin
+MODA,"1,655,000",979.52,"1,690",24 Apr 2020,42 EAST COAST ROAD #15-03,Resale,Strata,91,"18,187",-,Apartment,1,Freehold,2014,Private,428762,15,42,Central Region,Marine Parade
+THE FLORENCE RESIDENCES,"994,000",667.37,"1,489",25 Apr 2020,83 HOUGANG AVENUE 2 #04-14,New Sale,Strata,62,"16,032",-,Apartment,1,99 yrs from 24/12/2018,Uncompleted,HDB,538860,19,53,North East Region,Hougang
+THE FLORENCE RESIDENCES,"986,000",667.37,"1,477",25 Apr 2020,83 HOUGANG AVENUE 2 #02-14,New Sale,Strata,62,"15,903",-,Apartment,1,99 yrs from 24/12/2018,Uncompleted,N.A,538860,19,53,North East Region,Hougang
+TREASURE AT TAMPINES,"711,000",462.85,"1,536",25 Apr 2020,27 TAMPINES LANE #12-91,New Sale,Strata,43,"16,535",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,HDB,528472,18,52,East Region,Tampines
+KANDIS RESIDENCE,"934,000",731.95,"1,276",25 Apr 2020,6 KANDIS LINK #04-10,New Sale,Strata,68,"13,735",-,Condominium,1,99 yrs from 11/07/2016,Uncompleted,HDB,756969,27,75,North Region,Sembawang
+KENT RIDGE HILL RESIDENCES,"1,318,000",775.01,"1,701",26 Apr 2020,50A SOUTH BUONA VISTA ROAD #02-13,New Sale,Strata,72,"18,306",-,Apartment,1,99 yrs from 10/11/2018,Uncompleted,N.A,118179,05,11,Central Region,Queenstown
+KENT RIDGE HILL RESIDENCES,"842,000",473.62,"1,778",26 Apr 2020,66A SOUTH BUONA VISTA ROAD #01-81,New Sale,Strata,44,"19,136",-,Apartment,1,99 yrs from 10/11/2018,Uncompleted,HDB,117327,05,11,Central Region,Queenstown
+THE FLORENCE RESIDENCES,"724,000",484.38,"1,495",26 Apr 2020,91 HOUGANG AVENUE 2 #05-44,New Sale,Strata,45,"16,089",-,Apartment,1,99 yrs from 24/12/2018,Uncompleted,Private,538864,19,53,North East Region,Hougang
+PARC CLEMATIS,"1,382,000",861.12,"1,605",26 Apr 2020,8C JALAN LEMPENG #19-34,New Sale,Strata,80,"17,275",-,Apartment,1,99 yrs from 08/08/2019,Uncompleted,Private,128825,05,12,West Region,Clementi
+RIVERFRONT RESIDENCES,"702,000",581.26,"1,208",26 Apr 2020,45 HOUGANG AVENUE 7 #17-24,New Sale,Strata,54,"13,000",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,HDB,533815,19,53,North East Region,Hougang
+N.A.,"2,800,000","1,918.14","1,460",27 Apr 2020,48 SOO CHOW VIEW,Resale,Land,178.2,"15,713",-,Terrace House,1,Freehold,1974,Private,575440,20,57,Central Region,Bishan
+# 1 LOFT,"985,000",936.47,"1,052",27 Apr 2020,1 LORONG 24 GEYLANG #06-25,Resale,Strata,87,"11,322",-,Apartment,1,Freehold,2016,HDB,398614,14,39,Central Region,Geylang
+JADESCAPE,"1,847,100","1,054.87","1,751",27 Apr 2020,4 SHUNFU ROAD #18-11,New Sale,Strata,98,"18,848",-,Condominium,1,99 yrs from 19/06/2018,Uncompleted,N.A,575743,20,57,Central Region,Bishan
+SKY VUE,"1,200,000",678.13,"1,770",27 Apr 2020,1 BISHAN STREET 15 #30-09,Resale,Strata,63,"19,048",-,Condominium,1,99 yrs from 04/03/2013,2016,HDB,573910,20,57,Central Region,Bishan
+BUONA VISTA GARDENS,"1,500,000","1,280.92","1,171",27 Apr 2020,2 ZEHNDER ROAD #03-08,Resale,Strata,119,"12,605",-,Condominium,1,Freehold,1989,Private,117687,05,11,Central Region,Queenstown
+PALM ISLES,"745,888",807.3,924,27 Apr 2020,42 FLORA DRIVE #03-68,Resale,Strata,75,"9,945",-,Condominium,1,99 yrs from 14/09/2011,2015,HDB,506867,17,50,East Region,Pasir Ris
+THE FLORENCE RESIDENCES,"720,000",484.38,"1,486",27 Apr 2020,97 HOUGANG AVENUE 2 #05-81,New Sale,Strata,45,"16,000",-,Apartment,1,99 yrs from 24/12/2018,Uncompleted,HDB,533753,19,53,North East Region,Hougang
+LUXUS HILLS,"3,168,000","1,614.6","1,962",27 Apr 2020,25 LUXUS HILL DRIVE,Resale,Land,150,"21,120",-,Terrace House,1,999 yrs from 01/01/1879,2018,Private,804732,28,80,North East Region,Serangoon
+WATERFRONT GOLD,"1,200,000",893.41,"1,343",27 Apr 2020,758 BEDOK RESERVOIR ROAD #04-23,Resale,Strata,83,"14,458",-,Condominium,1,99 yrs from 26/11/2009,2014,Private,479260,16,47,East Region,Bedok
+N.A.,"6,308,000","5,429.36","1,162",27 Apr 2020,14 BOSCOMBE ROAD,Resale,Land,504.4,"12,506",-,Semi-Detached House,1,Freehold,1977,Private,439754,15,43,Central Region,Marine Parade
+THE SIENA,"1,280,000",785.77,"1,629",27 Apr 2020,33 TAN KIM CHENG ROAD #03-06,Resale,Strata,73,"17,534",-,Apartment,1,99 yrs from 28/02/2013,2016,Private,266636,10,26,Central Region,Bukit Timah
+THE JOVELL,"1,501,000","1,270.15","1,182",27 Apr 2020,19 FLORA DRIVE #02-30,New Sale,Strata,118,"12,720",-,Condominium,1,99 yrs from 08/03/2018,Uncompleted,Private,506760,17,50,East Region,Pasir Ris
+RIVERTREES RESIDENCES,"862,000",731.95,"1,178",27 Apr 2020,25 FERNVALE CLOSE #12-13,Resale,Strata,68,"12,676",-,Apartment,1,99 yrs from 28/08/2013,2017,HDB,797462,28,79,North East Region,Sengkang
+LUXUS HILLS,"3,168,000","1,614.6","1,962",27 Apr 2020,27 LUXUS HILL DRIVE,Resale,Land,150,"21,120",-,Terrace House,1,999 yrs from 01/01/1879,2018,Private,804733,28,80,North East Region,Serangoon
+PARC CLEMATIS,"1,036,000",688.9,"1,504",27 Apr 2020,8B JALAN LEMPENG #02-32,New Sale,Strata,64,"16,188",-,Apartment,1,99 yrs from 08/08/2019,Uncompleted,Private,128824,05,12,West Region,Clementi
+EVELYN MANSIONS,"1,538,000",904.18,"1,701",28 Apr 2020,20 EVELYN ROAD #10-02,Resale,Strata,84,"18,310",-,Apartment,1,Freehold,1997,HDB,309309,11,30,Central Region,Novena
+PARC ESTA,"1,357,000",861.12,"1,576",28 Apr 2020,910 SIMS AVENUE #18-48,New Sale,Strata,80,"16,963",-,Apartment,1,99 yrs from 12/07/2018,Uncompleted,Private,408971,14,40,Central Region,Geylang
+ECOPOLITAN,"1,168,000","1,194.8",978,28 Apr 2020,132 PUNGGOL WALK #03-18,Resale,Strata,111,"10,523",-,Executive Condominium,1,99 yrs from 04/12/2012,2016,HDB,828777,19,82,North East Region,Punggol
+3 ORCHARD BY-THE-PARK,"3,517,800","1,065.64","3,301",28 Apr 2020,3 ORCHARD BOULEVARD #02-03,Resale,Strata,99,"35,533",-,Condominium,1,Freehold,2017,Private,248653,10,24,Central Region,Orchard
+MELVILLE PARK,"786,000","1,302.44",603,28 Apr 2020,20 SIMEI STREET 1 #10-13,Resale,Strata,121,"6,496",-,Condominium,1,99 yrs from 01/09/1992,1996,Private,529944,18,52,East Region,Tampines
+GRANDEUR PARK RESIDENCES,"2,217,000","1,453.14","1,526",28 Apr 2020,5 BEDOK SOUTH AVENUE 3 #09-26,New Sale,Strata,135,"16,422",-,Condominium,1,99 yrs from 25/05/2016,Uncompleted,N.A,465463,16,46,East Region,Bedok
+THE TAPESTRY,"1,420,740","1,130.22","1,257",28 Apr 2020,53 TAMPINES STREET 86 #02-16,New Sale,Strata,105,"13,531",-,Condominium,1,99 yrs from 31/07/2017,Uncompleted,N.A,528540,18,52,East Region,Tampines
+KOPAR AT NEWTON,"1,573,000",688.9,"2,283",28 Apr 2020,6 MAKEWAY AVENUE #11-03,New Sale,Strata,64,"24,578",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228606,09,22,Central Region,Novena
+THREE 11,"1,530,000","1,087.16","1,407",28 Apr 2020,311 UPPER THOMSON ROAD #05-14,Resale,Strata,101,"15,149",-,Apartment,1,Freehold,2015,Private,574409,20,57,Central Region,Bishan
+CARIBBEAN AT KEPPEL BAY,"1,580,000","1,270.15","1,244",28 Apr 2020,34 KEPPEL BAY DRIVE #01-76,Resale,Strata,118,"13,390",-,Condominium,1,99 yrs from 16/08/1999,2004,Private,098652,04,09,Central Region,Bukit Merah
+TOH ESTATE,"3,750,000","5,012.79",748,28 Apr 2020,37 TOH CRESCENT,Resale,Land,465.7,"8,052",-,Semi-Detached House,1,Freehold,1992,Private,507946,17,50,East Region,Pasir Ris
+PARC CLEMATIS,"1,140,000",721.19,"1,581",28 Apr 2020,8A JALAN LEMPENG #14-23,New Sale,Strata,67,"17,015",-,Apartment,1,99 yrs from 08/08/2019,Uncompleted,N.A,128823,05,12,West Region,Clementi
+PARC CLEMATIS,"1,420,000",882.65,"1,609",28 Apr 2020,8B JALAN LEMPENG #08-30,New Sale,Strata,82,"17,317",-,Apartment,1,99 yrs from 08/08/2019,Uncompleted,Private,128824,05,12,West Region,Clementi
+ATRIUM RESIDENCES,"1,150,000","1,851.41",621,28 Apr 2020,5 LORONG 28 GEYLANG #04-08,Resale,Strata,172,"6,686",-,Apartment,1,Freehold,2008,HDB,398410,14,39,Central Region,Geylang
+PARC CLEMATIS,"1,047,000",688.9,"1,520",28 Apr 2020,8B JALAN LEMPENG #05-31,New Sale,Strata,64,"16,359",-,Apartment,1,99 yrs from 08/08/2019,Uncompleted,N.A,128824,05,12,West Region,Clementi
+AVENUE SOUTH RESIDENCE,"1,477,000",731.95,"2,018",28 Apr 2020,13 SILAT AVENUE #24-46,New Sale,Strata,68,"21,721",-,Apartment,1,99 yrs from 14/08/2018,Uncompleted,HDB,168878,03,16,Central Region,Bukit Merah
+PUBLIC MANSION,"1,900,000","2,529.54",751,28 Apr 2020,432 BALESTIER ROAD #07-436,Resale,Strata,235,"8,085",-,Apartment,1,Freehold,1974,Private,329813,12,32,Central Region,Novena
+CHILTERN PARK,"1,530,000","1,571.54",974,28 Apr 2020,135 SERANGOON AVENUE 3 #06-11,Resale,Strata,146,"10,479",-,Condominium,1,99 yrs from 01/03/1991,1995,HDB,556114,19,55,North East Region,Serangoon
+N.A.,"5,600,000","4,843.8","1,156",28 Apr 2020,19 RICHARDS AVENUE,Resale,Land,450,"12,444",-,Terrace House,1,Freehold,-,Private,546427,19,54,North East Region,Hougang
+BISHAN LOFT,"1,750,000","1,463.9","1,195",29 Apr 2020,31 BISHAN STREET 11 #25-03,Resale,Strata,136,"12,868",-,Executive Condominium,1,99 yrs from 13/12/2000,2003,Private,579819,20,57,Central Region,Bishan
+SERANGOON GARDEN ESTATE,"6,450,000","4,868.56","1,325",29 Apr 2020,15 BURGHLEY DRIVE,Resale,Land,452.3,"14,260",-,Detached House,1,999 yrs from 01/01/1955,-,Private,558993,19,55,North East Region,Serangoon
+NORTH PARK RESIDENCES,"960,000",785.77,"1,222",29 Apr 2020,17 YISHUN CENTRAL 1 #13-25,Sub Sale,Strata,73,"13,151",-,Apartment,1,99 yrs from 19/03/2015,2018,Private,768798,27,76,North Region,Yishun
+WATERTOWN,"750,000",559.73,"1,340",29 Apr 2020,69 PUNGGOL CENTRAL #12-17,Resale,Strata,52,"14,423",-,Apartment,1,99 yrs from 18/05/2011,2017,HDB,828754,19,82,North East Region,Punggol
+HIGH PARK RESIDENCES,"735,000",592.02,"1,242",29 Apr 2020,23 FERNVALE ROAD #04-09,Resale,Strata,55,"13,364",-,Apartment,1,99 yrs from 05/11/2014,2019,Private,797638,28,79,North East Region,Sengkang
+LUXUS HILLS,"3,630,000","2,152.8","1,686",29 Apr 2020,71 LUXUS HILL DRIVE,Resale,Land,200,"18,150",-,Terrace House,1,999 yrs from 01/01/1879,2018,HDB,804755,28,80,North East Region,Serangoon
+THE TAPESTRY,"2,259,100","1,765.3","1,280",29 Apr 2020,55 TAMPINES STREET 86 #11-23,New Sale,Strata,164,"13,775",-,Condominium,1,99 yrs from 31/07/2017,Uncompleted,Private,528541,18,52,East Region,Tampines
+VICTORY HEIGHTS,"998,888","1,119.46",892,29 Apr 2020,13 KIM KEAT ROAD #10-02,Resale,Strata,104,"9,605",-,Apartment,1,Freehold,1997,HDB,328842,12,32,Central Region,Novena
+THE TAPESTRY,"683,060",441.32,"1,548",29 Apr 2020,61 TAMPINES STREET 86 #12-44,New Sale,Strata,41,"16,660",-,Condominium,1,99 yrs from 31/07/2017,Uncompleted,HDB,528510,18,52,East Region,Tampines
+TREASURE AT TAMPINES,"911,000",678.13,"1,343",29 Apr 2020,11 TAMPINES LANE #06-42,New Sale,Strata,63,"14,460",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,Private,528480,18,52,East Region,Tampines
+PARC CANBERRA,"1,082,000","1,076.4","1,005",29 Apr 2020,11 CANBERRA WALK #11-21,New Sale,Strata,100,"10,820",-,Executive Condominium,1,99 yrs from 10/12/2018,Uncompleted,HDB,756946,27,75,North Region,Sembawang
+JUI RESIDENCES,"1,450,000",893.41,"1,623",29 Apr 2020,1177 SERANGOON ROAD #12-02,New Sale,Strata,83,"17,470",-,Apartment,1,Freehold,Uncompleted,HDB,328231,12,32,Central Region,Kallang
+HIGH PARK RESIDENCES,"820,000",667.37,"1,229",29 Apr 2020,29 FERNVALE ROAD #20-36,Resale,Strata,62,"13,226",-,Apartment,1,99 yrs from 05/11/2014,2019,Private,797416,28,79,North East Region,Sengkang
+STRATFORD COURT,"1,350,000","1,872.94",721,29 Apr 2020,41A BEDOK RIA CRESCENT #04-26,Resale,Strata,174,"7,759",-,Condominium,1,99 yrs from 23/06/1995,1998,HDB,489929,16,48,East Region,Bedok
+KOPAR AT NEWTON,"1,548,000",688.9,"2,247",30 Apr 2020,8 MAKEWAY AVENUE #07-17,New Sale,Strata,64,"24,188",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,Private,228607,09,22,Central Region,Novena
+HILLTOPS,"8,414,000","2,873.99","2,928",30 Apr 2020,99 CAIRNHILL CIRCLE #08-02,Resale,Strata,267,"31,513",-,Condominium,1,Freehold,2011,Private,229808,09,22,Central Region,Newton
+COASTLINE RESIDENCES,"1,688,000",742.72,"2,273",30 Apr 2020,7 AMBER ROAD #05-03,New Sale,Strata,69,"24,464",-,Apartment,1,Freehold,Uncompleted,Private,439953,15,43,Central Region,Marine Parade
+SUNNY PALMS,"1,128,000","1,044.11","1,080",30 Apr 2020,65 LORONG G TELOK KURAU #02-04,Resale,Strata,97,"11,629",-,Condominium,1,Freehold,2004,HDB,426323,15,42,East Region,Bedok
+N.A.,"2,675,000","2,763.12",968,30 Apr 2020,4 JALAN PELATOK,Resale,Land,256.7,"10,421",-,Terrace House,1,Freehold,1988,Private,488390,16,48,East Region,Tampines
+SERANGOON GARDEN ESTATE,"4,600,000","4,186.12","1,099",30 Apr 2020,131 SERANGOON GARDEN WAY,Resale,Land,388.9,"11,828",-,Semi-Detached House,1,999 yrs from 01/01/1953,-,Private,556033,19,55,North East Region,Serangoon
+HILLSGROVE,"2,450,000","4,542.41",539,30 Apr 2020,5H HILLSIDE DRIVE,Resale,Strata,422,"5,806",-,Semi-Detached House,1,999 yrs from 02/12/1878,2013,Private,544770,19,54,North East Region,Hougang
+LUXUS HILLS,"3,168,000","1,614.6","1,962",30 Apr 2020,23 LUXUS HILL DRIVE,Resale,Land,150,"21,120",-,Terrace House,1,999 yrs from 01/01/1879,2018,Private,804731,28,80,North East Region,Serangoon
+VAN HOLLAND,"3,218,000","1,054.87","3,051",30 Apr 2020,188 HOLLAND ROAD #03-11,New Sale,Strata,98,"32,837",-,Condominium,1,Freehold,Uncompleted,Private,278584,10,27,Central Region,Bukit Timah
+LUXUS HILLS,"3,738,000","2,206.62","1,694",30 Apr 2020,24 LUXUS HILL DRIVE,Resale,Land,205,"18,234",-,Terrace House,1,999 yrs from 01/01/1879,2018,Private,804769,28,80,North East Region,Serangoon
+N.A.,"2,070,000","1,500.5","1,380",30 Apr 2020,77 MACPHERSON ROAD,Resale,Land,139.4,"14,849",-,Terrace House,1,Freehold,1963,Private,348482,13,34,Central Region,Toa Payoh
+LUXUS HILLS,"3,188,000","1,614.6","1,974",30 Apr 2020,19 LUXUS HILL DRIVE,Resale,Land,150,"21,253",-,Terrace House,1,999 yrs from 01/01/1879,2018,Private,804729,28,80,North East Region,Serangoon
+KOPAR AT NEWTON,"1,552,000",688.9,"2,253",30 Apr 2020,6 MAKEWAY AVENUE #09-08,New Sale,Strata,64,"24,250",-,Apartment,1,99 yrs from 22/04/2019,Uncompleted,N.A,228606,09,22,Central Region,Novena
+RIVERFRONT RESIDENCES,"695,000",581.26,"1,196",30 Apr 2020,41 HOUGANG AVENUE 7 #17-14,New Sale,Strata,54,"12,870",-,Apartment,1,99 yrs from 31/05/2018,Uncompleted,HDB,533813,19,53,North East Region,Hougang
+SEASIDE RESIDENCES,"985,800",505.91,"1,949",30 Apr 2020,18 SIGLAP LINK #21-33,New Sale,Strata,47,"20,974",-,Apartment,1,99 yrs from 18/04/2016,Uncompleted,HDB,448873,15,44,East Region,Bedok
+PALM GARDENS,"990,000","1,345.5",736,30 Apr 2020,2D HONG SAN WALK #11-10,Resale,Strata,125,"7,920",-,Condominium,1,99 yrs from 12/08/1996,2000,HDB,689050,23,68,West Region,Choa Chu Kang
+CASA CAMBIO,"785,000",581.26,"1,351",30 Apr 2020,11 LIM TUA TOW ROAD #01-37,Resale,Strata,54,"14,537",-,Condominium,1,Freehold,2014,HDB,547803,19,54,North East Region,Serangoon
+TREASURE AT TAMPINES,"892,000",678.13,"1,315",30 Apr 2020,39 TAMPINES LANE #02-129,New Sale,Strata,63,"14,159",-,Condominium,1,99 yrs from 29/11/2018,Uncompleted,HDB,528466,18,52,East Region,Tampines
+THE TAPESTRY,"725,420",473.62,"1,532",30 Apr 2020,61 TAMPINES STREET 86 #12-49,New Sale,Strata,44,"16,487",-,Condominium,1,99 yrs from 31/07/2017,Uncompleted,HDB,528510,18,52,East Region,Tampines
+THE SANTORINI,"615,000",527.44,"1,166",30 Apr 2020,21 TAMPINES STREET 86 #05-04,Resale,Strata,49,"12,551",-,Condominium,1,99 yrs from 16/10/2013,2017,Private,528592,18,52,East Region,Tampines
+MIDTOWN BAY,"1,403,700",452.09,"3,025",30 Apr 2020,122 BEACH ROAD #16-04,New Sale,Strata,42,"32,564","1,367,700",Apartment,1,99 yrs from 02/01/2018,Uncompleted,HDB,189770,07,18,Central Region,Downtown Core
